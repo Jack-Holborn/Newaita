@@ -1,4 +1,9 @@
 [Dolphin]
+<<<<<<< ours
+SortRole=modificationtime
+Timestamp=2018,10,15,21,39,44
+=======
 PreviewsShown=true
 Timestamp=2020,3,14,12,39,58
+>>>>>>> theirs
 Version=4

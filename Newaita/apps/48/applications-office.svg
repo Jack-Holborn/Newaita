@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px" viewBox="0 0 48 48" version="1.1">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48pt" height="48pt" viewBox="0 0 48 48" version="1.1">
 <defs>
 <linearGradient id="linear0" gradientUnits="userSpaceOnUse" x1="254" y1="233.5" x2="254" y2="254.666672" gradientTransform="matrix(0.093759,0,0,0.093759,-0.00000572259,20.158178)">
 <stop offset="0" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.27451;"/>
 <stop offset="1" style="stop-color:rgb(0%,0%,0%);stop-opacity:0;"/>
 </linearGradient>
 <radialGradient id="radial0" gradientUnits="userSpaceOnUse" cx="450.908936" cy="189.579361" fx="450.908936" fy="189.579361" r="21.166656" gradientTransform="matrix(0.000000261256,-0.117199,-0.210958,-0.000000152308,73.234568,95.392999)">
-<stop offset="0" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.313726;"/>
+<stop offset="0" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.313725;"/>
 <stop offset="0.222222" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.27451;"/>
 <stop offset="1" style="stop-color:rgb(0%,0%,0%);stop-opacity:0;"/>
 </radialGradient>
 <radialGradient id="radial1" gradientUnits="userSpaceOnUse" cx="450.908936" cy="189.579361" fx="450.908936" fy="189.579361" r="21.166656" gradientTransform="matrix(-0.000000261256,0.117199,0.210958,0.000000152308,-26.597299,-11.291218)">
-<stop offset="0" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.313726;"/>
+<stop offset="0" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.313725;"/>
 <stop offset="0.222222" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.27451;"/>
 <stop offset="1" style="stop-color:rgb(0%,0%,0%);stop-opacity:0;"/>
 </radialGradient>
 <radialGradient id="radial2" gradientUnits="userSpaceOnUse" cx="450.908936" cy="189.579361" fx="450.908936" fy="189.579361" r="21.166656" gradientTransform="matrix(-0.000000261256,-0.117199,0.210958,-0.000000152308,-26.597299,95.392999)">
-<stop offset="0" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.313726;"/>
+<stop offset="0" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.313725;"/>
 <stop offset="0.222222" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.27451;"/>
 <stop offset="1" style="stop-color:rgb(0%,0%,0%);stop-opacity:0;"/>
 </radialGradient>
 <radialGradient id="radial3" gradientUnits="userSpaceOnUse" cx="450.908936" cy="189.579361" fx="450.908936" fy="189.579361" r="21.166656" gradientTransform="matrix(0.000000261256,0.117199,-0.210958,0.000000152308,73.234565,-11.291219)">
-<stop offset="0" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.313726;"/>
+<stop offset="0" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.313725;"/>
 <stop offset="0.222222" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.27451;"/>
 <stop offset="1" style="stop-color:rgb(0%,0%,0%);stop-opacity:0;"/>
 </radialGradient>
@@ -30,12 +30,12 @@
 </filter>
 <mask id="mask0">
   <g filter="url(#alpha)">
-<rect x="0" y="0" width="48" height="48" style="fill:rgb(0%,0%,0%);fill-opacity:0.99;stroke:none;"/>
+<rect x="0" y="0" width="48" height="48" style="fill:rgb(0%,0%,0%);fill-opacity:0.988235;stroke:none;"/>
   </g>
 </mask>
 <linearGradient id="linear1" gradientUnits="userSpaceOnUse" x1="940" y1="1695.118164" x2="940" y2="175.118118" gradientTransform="matrix(0.0248071,0,0,0.0248071,0,0)">
-<stop offset="0" style="stop-color:rgb(93.333334%,93.333334%,93.333334%);stop-opacity:1;"/>
-<stop offset="1" style="stop-color:rgb(96.078432%,96.078432%,96.078432%);stop-opacity:1;"/>
+<stop offset="0" style="stop-color:rgb(93.333333%,93.333333%,93.333333%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(96.078431%,96.078431%,96.078431%);stop-opacity:1;"/>
 </linearGradient>
 <clipPath id="clip1">
   <rect x="0" y="0" width="48" height="48"/>
@@ -45,11 +45,11 @@
 </g>
 <mask id="mask1">
   <g filter="url(#alpha)">
-<rect x="0" y="0" width="48" height="48" style="fill:rgb(0%,0%,0%);fill-opacity:0.99;stroke:none;"/>
+<rect x="0" y="0" width="48" height="48" style="fill:rgb(0%,0%,0%);fill-opacity:0.988235;stroke:none;"/>
   </g>
 </mask>
 <linearGradient id="linear2" gradientUnits="userSpaceOnUse" x1="940" y1="1695.118164" x2="940" y2="175.118118" gradientTransform="matrix(0.0248071,0,0,0.0248071,0,0)">
-<stop offset="0" style="stop-color:rgb(25.882354%,25.882354%,25.882354%);stop-opacity:1;"/>
+<stop offset="0" style="stop-color:rgb(25.882353%,25.882353%,25.882353%);stop-opacity:1;"/>
 <stop offset="1" style="stop-color:rgb(38.039216%,38.039216%,38.039216%);stop-opacity:1;"/>
 </linearGradient>
 <clipPath id="clip2">
@@ -60,7 +60,7 @@
 </g>
 <mask id="mask2">
   <g filter="url(#alpha)">
-<rect x="0" y="0" width="48" height="48" style="fill:rgb(0%,0%,0%);fill-opacity:0.99;stroke:none;"/>
+<rect x="0" y="0" width="48" height="48" style="fill:rgb(0%,0%,0%);fill-opacity:0.988235;stroke:none;"/>
   </g>
 </mask>
 <clipPath id="clip3">
@@ -71,7 +71,7 @@
 </g>
 <mask id="mask3">
   <g filter="url(#alpha)">
-<rect x="0" y="0" width="48" height="48" style="fill:rgb(0%,0%,0%);fill-opacity:0.99;stroke:none;"/>
+<rect x="0" y="0" width="48" height="48" style="fill:rgb(0%,0%,0%);fill-opacity:0.988235;stroke:none;"/>
   </g>
 </mask>
 <clipPath id="clip4">
@@ -82,7 +82,7 @@
 </g>
 <mask id="mask4">
   <g filter="url(#alpha)">
-<rect x="0" y="0" width="48" height="48" style="fill:rgb(0%,0%,0%);fill-opacity:0.99;stroke:none;"/>
+<rect x="0" y="0" width="48" height="48" style="fill:rgb(0%,0%,0%);fill-opacity:0.988235;stroke:none;"/>
   </g>
 </mask>
 <clipPath id="clip5">
@@ -93,11 +93,11 @@
 </g>
 <mask id="mask5">
   <g filter="url(#alpha)">
-<rect x="0" y="0" width="48" height="48" style="fill:rgb(0%,0%,0%);fill-opacity:0.99;stroke:none;"/>
+<rect x="0" y="0" width="48" height="48" style="fill:rgb(0%,0%,0%);fill-opacity:0.988235;stroke:none;"/>
   </g>
 </mask>
 <linearGradient id="linear3" gradientUnits="userSpaceOnUse" x1="243.416672" y1="127.666656" x2="243.416672" y2="-94.583321" gradientTransform="matrix(1,0,0,1,0,0)">
-<stop offset="0" style="stop-color:rgb(25.882354%,25.882354%,25.882354%);stop-opacity:1;"/>
+<stop offset="0" style="stop-color:rgb(25.882353%,25.882353%,25.882353%);stop-opacity:1;"/>
 <stop offset="1" style="stop-color:rgb(38.039216%,38.039216%,38.039216%);stop-opacity:1;"/>
 </linearGradient>
 <clipPath id="clip6">
@@ -108,11 +108,11 @@
 </g>
 <mask id="mask6">
   <g filter="url(#alpha)">
-<rect x="0" y="0" width="48" height="48" style="fill:rgb(0%,0%,0%);fill-opacity:0.99;stroke:none;"/>
+<rect x="0" y="0" width="48" height="48" style="fill:rgb(0%,0%,0%);fill-opacity:0.988235;stroke:none;"/>
   </g>
 </mask>
 <linearGradient id="linear4" gradientUnits="userSpaceOnUse" x1="254" y1="85.333336" x2="254" y2="-136.916656" gradientTransform="matrix(1,0,0,1,0,42.333332)">
-<stop offset="0" style="stop-color:rgb(25.882354%,25.882354%,25.882354%);stop-opacity:1;"/>
+<stop offset="0" style="stop-color:rgb(25.882353%,25.882353%,25.882353%);stop-opacity:1;"/>
 <stop offset="1" style="stop-color:rgb(38.039216%,38.039216%,38.039216%);stop-opacity:1;"/>
 </linearGradient>
 <clipPath id="clip7">
@@ -123,11 +123,11 @@
 </g>
 <mask id="mask7">
   <g filter="url(#alpha)">
-<rect x="0" y="0" width="48" height="48" style="fill:rgb(0%,0%,0%);fill-opacity:0.99;stroke:none;"/>
+<rect x="0" y="0" width="48" height="48" style="fill:rgb(0%,0%,0%);fill-opacity:0.988235;stroke:none;"/>
   </g>
 </mask>
 <linearGradient id="linear5" gradientUnits="userSpaceOnUse" x1="248.708344" y1="43" x2="248.708344" y2="-179.25" gradientTransform="matrix(1,0,0,1,0,84.666664)">
-<stop offset="0" style="stop-color:rgb(25.882354%,25.882354%,25.882354%);stop-opacity:1;"/>
+<stop offset="0" style="stop-color:rgb(25.882353%,25.882353%,25.882353%);stop-opacity:1;"/>
 <stop offset="1" style="stop-color:rgb(38.039216%,38.039216%,38.039216%);stop-opacity:1;"/>
 </linearGradient>
 <clipPath id="clip8">
@@ -138,11 +138,11 @@
 </g>
 <mask id="mask8">
   <g filter="url(#alpha)">
-<rect x="0" y="0" width="48" height="48" style="fill:rgb(0%,0%,0%);fill-opacity:0.99;stroke:none;"/>
+<rect x="0" y="0" width="48" height="48" style="fill:rgb(0%,0%,0%);fill-opacity:0.988235;stroke:none;"/>
   </g>
 </mask>
 <linearGradient id="linear6" gradientUnits="userSpaceOnUse" x1="248.708344" y1="0.666667" x2="248.708344" y2="-221.583328" gradientTransform="matrix(1,0,0,1,0,127)">
-<stop offset="0" style="stop-color:rgb(25.882354%,25.882354%,25.882354%);stop-opacity:1;"/>
+<stop offset="0" style="stop-color:rgb(25.882353%,25.882353%,25.882353%);stop-opacity:1;"/>
 <stop offset="1" style="stop-color:rgb(38.039216%,38.039216%,38.039216%);stop-opacity:1;"/>
 </linearGradient>
 <clipPath id="clip9">
@@ -152,8 +152,8 @@
 <path style="fill-rule:nonzero;fill:url(#linear6);stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(12.941177%,12.941177%,12.941177%);stroke-opacity:1;stroke-miterlimit:4;" d="M 169.317164 95.928641 L 328.093669 95.928641 C 333.926445 95.928641 338.675991 100.636525 338.675991 106.510964 C 338.675991 112.34374 333.926445 117.093287 328.093669 117.093287 L 169.317164 117.093287 C 163.484388 117.093287 158.734842 112.34374 158.734842 106.510964 C 158.734842 100.636525 163.484388 95.928641 169.317164 95.928641 Z M 169.317164 95.928641 " transform="matrix(0.093759,0,0,0.093759,0,20.158175)"/>
 </g>
 <linearGradient id="linear7" gradientUnits="userSpaceOnUse" x1="169.333328" y1="32.416668" x2="169.333328" y2="-158.083328" gradientTransform="matrix(1,0,0,1,31.750025,0.000236633)">
-<stop offset="0" style="stop-color:rgb(100%,83.529413%,30.980393%);stop-opacity:1;"/>
-<stop offset="1" style="stop-color:rgb(100%,87.843138%,50.980395%);stop-opacity:1;"/>
+<stop offset="0" style="stop-color:rgb(100%,83.529412%,30.980392%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(100%,87.843137%,50.980392%);stop-opacity:1;"/>
 </linearGradient>
 </defs>
 <g id="surface1">
