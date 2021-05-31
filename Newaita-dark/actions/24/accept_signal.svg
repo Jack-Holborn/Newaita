@@ -1,1 +1,27 @@
+<<<<<<< HEAD
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24"><path d="M16.996 3.164h.863v17.863h-1.488V3.164zm0 0" fill="#ff7043" fill-opacity=".99"/><path d="M9.922 12.094l-6.945-8.93H20.84v17.863H2.977zm0 0" fill="none" stroke-width="1.4978159999999998" stroke-linecap="round" stroke-linejoin="round" stroke="#bdbdbd"/></svg>
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1">
+<g id="surface1">
+<defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#eeeeee; } .ColorScheme-Highlight { color:#424242; }
+  </style>
+ </defs>
+<path style="fill:currentColor" class="ColorScheme-Text" d="M 2.9375 3 L 10.148438 12 L 2.9375 21 L 18 21 C 19.660156 21 21 19.660156 21 18 L 21 6 C 21 4.339844 19.660156 3 18 3 Z M 6.0625 4.5 L 18 4.5 C 18.832031 4.5 19.5 5.167969 19.5 6 L 19.5 18 C 19.5 18.832031 18.832031 19.5 18 19.5 L 6.0625 19.5 L 12.070312 12 Z M 6.0625 4.5 "/>
+</g>
+</svg>
+=======
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24"><path d="M16.996 3.164h.863v17.863h-1.488V3.164zm0 0" fill="#ff7043" fill-opacity=".99"/><path d="M9.922 12.094l-6.945-8.93H20.84v17.863H2.977zm0 0" fill="none" stroke-width="1.4978159999999998" stroke-linecap="round" stroke-linejoin="round" stroke="#bdbdbd"/></svg>
+>>>>>>> fe3533a9f (merge cbernix repo into jack)
+=======
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24"><path d="M16.996 3.164h.863v17.863h-1.488V3.164zm0 0" fill="#ff7043" fill-opacity=".99"/><path d="M9.922 12.094l-6.945-8.93H20.84v17.863H2.977zm0 0" fill="none" stroke-width="1.4978159999999998" stroke-linecap="round" stroke-linejoin="round" stroke="#bdbdbd"/></svg>
+>>>>>>> master
+=======
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24"><path d="M16.996 3.164h.863v17.863h-1.488V3.164zm0 0" fill="#ff7043" fill-opacity=".99"/><path d="M9.922 12.094l-6.945-8.93H20.84v17.863H2.977zm0 0" fill="none" stroke-width="1.4978159999999998" stroke-linecap="round" stroke-linejoin="round" stroke="#bdbdbd"/></svg>
+>>>>>>> master
+>>>>>>> jack

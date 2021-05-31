@@ -1,1 +1,27 @@
+<<<<<<< HEAD
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24"><g fill="#bdbdbd"><path d="M10.914 10.11v12.902h5.953v-6.95h3.973V10.11zm1.488 1.488h6.946v2.976h-3.97v6.95h-2.976zm0 0"/><path d="M9.922 1.18L2.977 6.14v16.872H8.93V10.109l3.968-2.976h6.946V1.18zm.48 1.511h7.953v2.93H11.43L7.422 8.832v12.691H4.488V7.422zm0 0" fill-rule="evenodd"/></g></svg>
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1">
+<g id="surface1">
+<defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#eeeeee; } .ColorScheme-Highlight { color:#424242; }
+  </style>
+ </defs>
+<path style="fill:currentColor" class="ColorScheme-Text" d="M 8.738281 3 L 4.5 6.390625 L 4.5 21 L 10.5 21 L 10.5 10.058594 L 11.558594 9 L 19.5 9 L 19.5 3 Z M 9.261719 4.5 L 18 4.5 L 18 7.5 L 10.941406 7.5 L 9 9.441406 L 9 19.5 L 6 19.5 L 6 7.109375 Z M 9.261719 4.5 "/>
+</g>
+</svg>
+=======
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24"><g fill="#bdbdbd"><path d="M10.914 10.11v12.902h5.953v-6.95h3.973V10.11zm1.488 1.488h6.946v2.976h-3.97v6.95h-2.976zm0 0"/><path d="M9.922 1.18L2.977 6.14v16.872H8.93V10.109l3.968-2.976h6.946V1.18zm.48 1.511h7.953v2.93H11.43L7.422 8.832v12.691H4.488V7.422zm0 0" fill-rule="evenodd"/></g></svg>
+>>>>>>> fe3533a9f (merge cbernix repo into jack)
+=======
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24"><g fill="#bdbdbd"><path d="M10.914 10.11v12.902h5.953v-6.95h3.973V10.11zm1.488 1.488h6.946v2.976h-3.97v6.95h-2.976zm0 0"/><path d="M9.922 1.18L2.977 6.14v16.872H8.93V10.109l3.968-2.976h6.946V1.18zm.48 1.511h7.953v2.93H11.43L7.422 8.832v12.691H4.488V7.422zm0 0" fill-rule="evenodd"/></g></svg>
+>>>>>>> master
+=======
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24"><g fill="#bdbdbd"><path d="M10.914 10.11v12.902h5.953v-6.95h3.973V10.11zm1.488 1.488h6.946v2.976h-3.97v6.95h-2.976zm0 0"/><path d="M9.922 1.18L2.977 6.14v16.872H8.93V10.109l3.968-2.976h6.946V1.18zm.48 1.511h7.953v2.93H11.43L7.422 8.832v12.691H4.488V7.422zm0 0" fill-rule="evenodd"/></g></svg>
+>>>>>>> master
+>>>>>>> jack

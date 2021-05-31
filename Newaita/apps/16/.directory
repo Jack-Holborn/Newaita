@@ -1,0 +1,12 @@
+[Dolphin]
+<<<<<<< HEAD
+Timestamp=2020,8,29,13,50,20
+=======
+<<<<<<< ours
+SortRole=modificationtime
+Timestamp=2018,10,27,10,59,24
+=======
+Timestamp=2020,3,14,14,31,9
+>>>>>>> theirs
+>>>>>>> fe3533a9f (merge cbernix repo into jack)
+Version=4

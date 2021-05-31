@@ -1,1 +1,27 @@
+<<<<<<< HEAD
 <svg xmlns="http://www.w3.org/2000/svg" width="16pt" height="16pt" viewBox="0 0 16 16"><g fill="none" stroke-width="31.95" stroke-linecap="round" stroke-linejoin="round"><path d="M3.969 5.086l3.969-3.3 3.968 3.3" stroke="#26a69a" stroke-width=".9984375"/><path d="M3.969 10.715l3.969 3.3 3.968-3.3" stroke="#424242" stroke-width=".9984375"/></g></svg>
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16px" height="16px" viewBox="0 0 16 16" version="1.1">
+<g id="surface1">
+<defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#424242; } .ColorScheme-Highlight { color:#eeeeee; }
+  </style>
+ </defs>
+<path style="fill:currentColor" class="ColorScheme-Text" d="M 8 2 L 5 5 L 7 5 L 7 7 L 9 7 L 9 5 L 11 5 Z M 7 9 L 7 11 L 5 11 L 8 14 L 11 11 L 9 11 L 9 9 Z M 7 9 "/>
+</g>
+</svg>
+=======
+<svg xmlns="http://www.w3.org/2000/svg" width="16pt" height="16pt" viewBox="0 0 16 16"><g fill="none" stroke-width="31.95" stroke-linecap="round" stroke-linejoin="round"><path d="M3.969 5.086l3.969-3.3 3.968 3.3" stroke="#26a69a" stroke-width=".9984375"/><path d="M3.969 10.715l3.969 3.3 3.968-3.3" stroke="#424242" stroke-width=".9984375"/></g></svg>
+>>>>>>> fe3533a9f (merge cbernix repo into jack)
+=======
+<svg xmlns="http://www.w3.org/2000/svg" width="16pt" height="16pt" viewBox="0 0 16 16"><g fill="none" stroke-width="31.95" stroke-linecap="round" stroke-linejoin="round"><path d="M3.969 5.086l3.969-3.3 3.968 3.3" stroke="#26a69a" stroke-width=".9984375"/><path d="M3.969 10.715l3.969 3.3 3.968-3.3" stroke="#424242" stroke-width=".9984375"/></g></svg>
+>>>>>>> master
+=======
+<svg xmlns="http://www.w3.org/2000/svg" width="16pt" height="16pt" viewBox="0 0 16 16"><g fill="none" stroke-width="31.95" stroke-linecap="round" stroke-linejoin="round"><path d="M3.969 5.086l3.969-3.3 3.968 3.3" stroke="#26a69a" stroke-width=".9984375"/><path d="M3.969 10.715l3.969 3.3 3.968-3.3" stroke="#424242" stroke-width=".9984375"/></g></svg>
+>>>>>>> master
+>>>>>>> jack

@@ -1,1 +1,27 @@
+<<<<<<< HEAD
 <svg xmlns="http://www.w3.org/2000/svg" width="22pt" height="22pt" viewBox="0 0 22 22"><g fill="#424242"><path d="M10.004 9.27v11.824h5.46v-6.367h3.638V9.27zm1.367 1.363h6.367v2.726h-3.64v6.368H11.37zm0 0"/><path d="M9.098 1.082L2.73 5.629v15.465h5.458V9.27l3.636-2.73h6.367V1.081zm.437 1.383h7.293v2.691h-6.351L6.8 8.094v11.633H4.113V6.8zm0 0" fill-rule="evenodd"/></g></svg>
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22px" height="22px" viewBox="0 0 22 22" version="1.1">
+<g id="surface1">
+<defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#424242; } .ColorScheme-Highlight { color:#eeeeee; }
+  </style>
+ </defs>
+<path style="fill:currentColor" class="ColorScheme-Text" d="M 8.007812 2.75 L 4.125 5.855469 L 4.125 19.25 L 9.625 19.25 L 9.625 9.222656 L 10.597656 8.25 L 17.875 8.25 L 17.875 2.75 Z M 8.492188 4.125 L 16.5 4.125 L 16.5 6.875 L 10.027344 6.875 L 8.25 8.652344 L 8.25 17.875 L 5.5 17.875 L 5.5 6.519531 Z M 8.492188 4.125 "/>
+</g>
+</svg>
+=======
+<svg xmlns="http://www.w3.org/2000/svg" width="22pt" height="22pt" viewBox="0 0 22 22"><g fill="#424242"><path d="M10.004 9.27v11.824h5.46v-6.367h3.638V9.27zm1.367 1.363h6.367v2.726h-3.64v6.368H11.37zm0 0"/><path d="M9.098 1.082L2.73 5.629v15.465h5.458V9.27l3.636-2.73h6.367V1.081zm.437 1.383h7.293v2.691h-6.351L6.8 8.094v11.633H4.113V6.8zm0 0" fill-rule="evenodd"/></g></svg>
+>>>>>>> fe3533a9f (merge cbernix repo into jack)
+=======
+<svg xmlns="http://www.w3.org/2000/svg" width="22pt" height="22pt" viewBox="0 0 22 22"><g fill="#424242"><path d="M10.004 9.27v11.824h5.46v-6.367h3.638V9.27zm1.367 1.363h6.367v2.726h-3.64v6.368H11.37zm0 0"/><path d="M9.098 1.082L2.73 5.629v15.465h5.458V9.27l3.636-2.73h6.367V1.081zm.437 1.383h7.293v2.691h-6.351L6.8 8.094v11.633H4.113V6.8zm0 0" fill-rule="evenodd"/></g></svg>
+>>>>>>> master
+=======
+<svg xmlns="http://www.w3.org/2000/svg" width="22pt" height="22pt" viewBox="0 0 22 22"><g fill="#424242"><path d="M10.004 9.27v11.824h5.46v-6.367h3.638V9.27zm1.367 1.363h6.367v2.726h-3.64v6.368H11.37zm0 0"/><path d="M9.098 1.082L2.73 5.629v15.465h5.458V9.27l3.636-2.73h6.367V1.081zm.437 1.383h7.293v2.691h-6.351L6.8 8.094v11.633H4.113V6.8zm0 0" fill-rule="evenodd"/></g></svg>
+>>>>>>> master
+>>>>>>> jack

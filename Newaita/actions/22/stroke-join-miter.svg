@@ -1,1 +1,27 @@
+<<<<<<< HEAD
 <svg xmlns="http://www.w3.org/2000/svg" width="22pt" height="22pt" viewBox="0 0 22 22"><g fill="#424242"><path d="M10.004 8.36v12.734h5.46V14.27h3.638V8.36zm1.367 1.363h6.367v3.183h-3.64v6.82H11.37zm0 0"/><path d="M2.73 1.082v20.012h5.458V6.539H18.19V1.082zm1.364 1.363h12.734v2.73H6.82v14.552H4.094zm0 0" fill-rule="evenodd"/></g></svg>
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22px" height="22px" viewBox="0 0 22 22" version="1.1">
+<g id="surface1">
+<defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#424242; } .ColorScheme-Highlight { color:#eeeeee; }
+  </style>
+ </defs>
+<path style="fill:currentColor" class="ColorScheme-Text" d="M 4.125 2.75 L 4.125 19.25 L 9.625 19.25 L 9.625 8.25 L 17.875 8.25 L 17.875 2.75 Z M 5.5 4.125 L 16.5 4.125 L 16.5 6.875 L 8.25 6.875 L 8.25 17.875 L 5.5 17.875 Z M 5.5 4.125 "/>
+</g>
+</svg>
+=======
+<svg xmlns="http://www.w3.org/2000/svg" width="22pt" height="22pt" viewBox="0 0 22 22"><g fill="#424242"><path d="M10.004 8.36v12.734h5.46V14.27h3.638V8.36zm1.367 1.363h6.367v3.183h-3.64v6.82H11.37zm0 0"/><path d="M2.73 1.082v20.012h5.458V6.539H18.19V1.082zm1.364 1.363h12.734v2.73H6.82v14.552H4.094zm0 0" fill-rule="evenodd"/></g></svg>
+>>>>>>> fe3533a9f (merge cbernix repo into jack)
+=======
+<svg xmlns="http://www.w3.org/2000/svg" width="22pt" height="22pt" viewBox="0 0 22 22"><g fill="#424242"><path d="M10.004 8.36v12.734h5.46V14.27h3.638V8.36zm1.367 1.363h6.367v3.183h-3.64v6.82H11.37zm0 0"/><path d="M2.73 1.082v20.012h5.458V6.539H18.19V1.082zm1.364 1.363h12.734v2.73H6.82v14.552H4.094zm0 0" fill-rule="evenodd"/></g></svg>
+>>>>>>> master
+=======
+<svg xmlns="http://www.w3.org/2000/svg" width="22pt" height="22pt" viewBox="0 0 22 22"><g fill="#424242"><path d="M10.004 8.36v12.734h5.46V14.27h3.638V8.36zm1.367 1.363h6.367v3.183h-3.64v6.82H11.37zm0 0"/><path d="M2.73 1.082v20.012h5.458V6.539H18.19V1.082zm1.364 1.363h12.734v2.73H6.82v14.552H4.094zm0 0" fill-rule="evenodd"/></g></svg>
+>>>>>>> master
+>>>>>>> jack

@@ -1,1 +1,27 @@
+<<<<<<< HEAD
 <svg xmlns="http://www.w3.org/2000/svg" width="16pt" height="16pt" viewBox="0 0 16 16"><path d="M7.938.785a.66.66 0 0 0-.66.664v5.953H1.323a.66.66 0 0 0-.664.66c0 .368.297.665.664.665h5.953v5.953c0 .367.293.66.66.66a.66.66 0 0 0 .665-.66V8.727h5.953a.66.66 0 0 0 .66-.665.657.657 0 0 0-.66-.66H8.602V1.45a.664.664 0 0 0-.665-.664zm0 0" fill="#26a69a"/></svg>
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16px" height="16px" viewBox="0 0 16 16" version="1.1">
+<g id="surface1">
+<defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#424242; } .ColorScheme-Highlight { color:#eeeeee; }
+  </style>
+ </defs>
+<path style="fill:currentColor" class="ColorScheme-Text" d="M 7 3 L 7 7 L 3 7 L 3 9 L 7 9 L 7 13 L 9 13 L 9 9 L 13 9 L 13 7 L 9 7 L 9 3 Z M 7 3 "/>
+</g>
+</svg>
+=======
+<svg xmlns="http://www.w3.org/2000/svg" width="16pt" height="16pt" viewBox="0 0 16 16"><path d="M7.938.785a.66.66 0 0 0-.66.664v5.953H1.323a.66.66 0 0 0-.664.66c0 .368.297.665.664.665h5.953v5.953c0 .367.293.66.66.66a.66.66 0 0 0 .665-.66V8.727h5.953a.66.66 0 0 0 .66-.665.657.657 0 0 0-.66-.66H8.602V1.45a.664.664 0 0 0-.665-.664zm0 0" fill="#26a69a"/></svg>
+>>>>>>> fe3533a9f (merge cbernix repo into jack)
+=======
+<svg xmlns="http://www.w3.org/2000/svg" width="16pt" height="16pt" viewBox="0 0 16 16"><path d="M7.938.785a.66.66 0 0 0-.66.664v5.953H1.323a.66.66 0 0 0-.664.66c0 .368.297.665.664.665h5.953v5.953c0 .367.293.66.66.66a.66.66 0 0 0 .665-.66V8.727h5.953a.66.66 0 0 0 .66-.665.657.657 0 0 0-.66-.66H8.602V1.45a.664.664 0 0 0-.665-.664zm0 0" fill="#26a69a"/></svg>
+>>>>>>> master
+=======
+<svg xmlns="http://www.w3.org/2000/svg" width="16pt" height="16pt" viewBox="0 0 16 16"><path d="M7.938.785a.66.66 0 0 0-.66.664v5.953H1.323a.66.66 0 0 0-.664.66c0 .368.297.665.664.665h5.953v5.953c0 .367.293.66.66.66a.66.66 0 0 0 .665-.66V8.727h5.953a.66.66 0 0 0 .66-.665.657.657 0 0 0-.66-.66H8.602V1.45a.664.664 0 0 0-.665-.664zm0 0" fill="#26a69a"/></svg>
+>>>>>>> master
+>>>>>>> jack

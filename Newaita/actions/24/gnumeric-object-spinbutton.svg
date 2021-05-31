@@ -1,1 +1,27 @@
+<<<<<<< HEAD
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24"><g fill="none" stroke-width="31.95" stroke-linecap="round" stroke-linejoin="round"><path d="M5.953 7.629l5.953-4.95 5.953 4.95" stroke="#26a69a" stroke-width="1.4978159999999998"/><path d="M5.953 16.074l5.953 4.953 5.953-4.953" stroke="#424242" stroke-width="1.4978159999999998"/></g></svg>
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1">
+<g id="surface1">
+<defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#424242; } .ColorScheme-Highlight { color:#eeeeee; }
+  </style>
+ </defs>
+<path style="fill:currentColor" class="ColorScheme-Text" d="M 12 3 L 7.5 7.5 L 10.5 7.5 L 10.5 10.5 L 13.5 10.5 L 13.5 7.5 L 16.5 7.5 Z M 10.5 13.5 L 10.5 16.5 L 7.5 16.5 L 12 21 L 16.5 16.5 L 13.5 16.5 L 13.5 13.5 Z M 10.5 13.5 "/>
+</g>
+</svg>
+=======
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24"><g fill="none" stroke-width="31.95" stroke-linecap="round" stroke-linejoin="round"><path d="M5.953 7.629l5.953-4.95 5.953 4.95" stroke="#26a69a" stroke-width="1.4978159999999998"/><path d="M5.953 16.074l5.953 4.953 5.953-4.953" stroke="#424242" stroke-width="1.4978159999999998"/></g></svg>
+>>>>>>> fe3533a9f (merge cbernix repo into jack)
+=======
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24"><g fill="none" stroke-width="31.95" stroke-linecap="round" stroke-linejoin="round"><path d="M5.953 7.629l5.953-4.95 5.953 4.95" stroke="#26a69a" stroke-width="1.4978159999999998"/><path d="M5.953 16.074l5.953 4.953 5.953-4.953" stroke="#424242" stroke-width="1.4978159999999998"/></g></svg>
+>>>>>>> master
+=======
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24"><g fill="none" stroke-width="31.95" stroke-linecap="round" stroke-linejoin="round"><path d="M5.953 7.629l5.953-4.95 5.953 4.95" stroke="#26a69a" stroke-width="1.4978159999999998"/><path d="M5.953 16.074l5.953 4.953 5.953-4.953" stroke="#424242" stroke-width="1.4978159999999998"/></g></svg>
+>>>>>>> master
+>>>>>>> jack
