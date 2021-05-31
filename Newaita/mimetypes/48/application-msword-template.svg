@@ -1,58 +1,10 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48pt" height="48pt" viewBox="0 0 48 48" version="1.1">
-=======
-<<<<<<< HEAD
-=======
->>>>>>> jack
-<<<<<<< HEAD
-<<<<<<< HEAD
 
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px" viewBox="0 0 48 48" version="1.1">
-=======
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48pt" height="48pt" viewBox="0 0 48 48" version="1.1">
->>>>>>> fe3533a9f (merge cbernix repo into jack)
-=======
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48pt" height="48pt" viewBox="0 0 48 48" version="1.1">
->>>>>>> master
-=======
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48pt" height="48pt" viewBox="0 0 48 48" version="1.1">
->>>>>>> master
-<<<<<<< HEAD
->>>>>>> jack
-=======
->>>>>>> jack
 <defs>
 <linearGradient id="linear0" gradientUnits="userSpaceOnUse" x1="254" y1="233.5" x2="254" y2="254.666672" gradientTransform="matrix(0.093759,0,0,0.093759,0.99228,20.158177)">
 <stop offset="0" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.27451;"/>
 <stop offset="1" style="stop-color:rgb(0%,0%,0%);stop-opacity:0;"/>
 </linearGradient>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<radialGradient id="radial0" gradientUnits="userSpaceOnUse" cx="450.908936" cy="189.579361" fx="450.908936" fy="189.579361" r="21.166656" gradientTransform="matrix(0.000000261256,-0.117199,-0.210958,-0.000000152308,74.226854,95.392999)">
-<stop offset="0" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.313725;"/>
-<stop offset="0.222222" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.27451;"/>
-<stop offset="1" style="stop-color:rgb(0%,0%,0%);stop-opacity:0;"/>
-</radialGradient>
-<radialGradient id="radial1" gradientUnits="userSpaceOnUse" cx="450.908936" cy="189.579361" fx="450.908936" fy="189.579361" r="21.166656" gradientTransform="matrix(-0.000000261256,0.117199,0.210958,0.000000152308,-27.589573,-11.291218)">
-<stop offset="0" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.313725;"/>
-<stop offset="0.222222" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.27451;"/>
-<stop offset="1" style="stop-color:rgb(0%,0%,0%);stop-opacity:0;"/>
-</radialGradient>
-<radialGradient id="radial2" gradientUnits="userSpaceOnUse" cx="450.908936" cy="189.579361" fx="450.908936" fy="189.579361" r="21.166656" gradientTransform="matrix(-0.000000261256,-0.117199,0.210958,-0.000000152308,-27.589573,95.392999)">
-<stop offset="0" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.313725;"/>
-<stop offset="0.222222" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.27451;"/>
-<stop offset="1" style="stop-color:rgb(0%,0%,0%);stop-opacity:0;"/>
-</radialGradient>
-<radialGradient id="radial3" gradientUnits="userSpaceOnUse" cx="450.908936" cy="189.579361" fx="450.908936" fy="189.579361" r="21.166656" gradientTransform="matrix(0.000000261256,0.117199,-0.210958,0.000000152308,74.226851,-11.291219)">
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 <radialGradient id="radial0" gradientUnits="userSpaceOnUse" cx="450.908936" cy="189.579361" fx="450.908936" fy="189.579361" r="21.166656" gradientTransform="matrix(0.000000261256,-0.117199,-0.210958,-0.000000152308,74.226854,95.393)">
 <stop offset="0" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.313726;"/>
 <stop offset="0.222222" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.27451;"/>
@@ -68,137 +20,14 @@
 <stop offset="0.222222" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.27451;"/>
 <stop offset="1" style="stop-color:rgb(0%,0%,0%);stop-opacity:0;"/>
 </radialGradient>
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-<radialGradient id="radial0" gradientUnits="userSpaceOnUse" cx="450.908936" cy="189.579361" fx="450.908936" fy="189.579361" r="21.166656" gradientTransform="matrix(0.000000261256,-0.117199,-0.210958,-0.000000152308,74.226854,95.393)">
-<stop offset="0" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.313726;"/>
-<stop offset="0.222222" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.27451;"/>
-<stop offset="1" style="stop-color:rgb(0%,0%,0%);stop-opacity:0;"/>
-</radialGradient>
-<radialGradient id="radial1" gradientUnits="userSpaceOnUse" cx="450.908936" cy="189.579361" fx="450.908936" fy="189.579361" r="21.166656" gradientTransform="matrix(-0.000000261256,0.117199,0.210958,0.000000152308,-27.589574,-11.291219)">
-<stop offset="0" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.313726;"/>
-<stop offset="0.222222" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.27451;"/>
-<stop offset="1" style="stop-color:rgb(0%,0%,0%);stop-opacity:0;"/>
-</radialGradient>
-<radialGradient id="radial2" gradientUnits="userSpaceOnUse" cx="450.908936" cy="189.579361" fx="450.908936" fy="189.579361" r="21.166656" gradientTransform="matrix(-0.000000261256,-0.117199,0.210958,-0.000000152308,-27.589574,95.393)">
-<stop offset="0" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.313726;"/>
-<stop offset="0.222222" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.27451;"/>
-<stop offset="1" style="stop-color:rgb(0%,0%,0%);stop-opacity:0;"/>
-</radialGradient>
->>>>>>> jack
 <radialGradient id="radial3" gradientUnits="userSpaceOnUse" cx="450.908936" cy="189.579361" fx="450.908936" fy="189.579361" r="21.166656" gradientTransform="matrix(0.000000261256,0.117199,-0.210958,0.000000152308,74.226849,-11.291219)">
 <stop offset="0" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.313726;"/>
-=======
-<radialGradient id="radial0" gradientUnits="userSpaceOnUse" cx="450.908936" cy="189.579361" fx="450.908936" fy="189.579361" r="21.166656" gradientTransform="matrix(0.000000261256,-0.117199,-0.210958,-0.000000152308,74.226854,95.392999)">
-=======
-<radialGradient id="radial0" gradientUnits="userSpaceOnUse" cx="450.908936" cy="189.579361" fx="450.908936" fy="189.579361" r="21.166656" gradientTransform="matrix(0.000000261256,-0.117199,-0.210958,-0.000000152308,74.226854,95.392999)">
-<stop offset="0" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.313725;"/>
-<stop offset="0.222222" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.27451;"/>
-<stop offset="1" style="stop-color:rgb(0%,0%,0%);stop-opacity:0;"/>
-</radialGradient>
-<radialGradient id="radial1" gradientUnits="userSpaceOnUse" cx="450.908936" cy="189.579361" fx="450.908936" fy="189.579361" r="21.166656" gradientTransform="matrix(-0.000000261256,0.117199,0.210958,0.000000152308,-27.589573,-11.291218)">
-<stop offset="0" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.313725;"/>
-<stop offset="0.222222" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.27451;"/>
-<stop offset="1" style="stop-color:rgb(0%,0%,0%);stop-opacity:0;"/>
-</radialGradient>
-<radialGradient id="radial2" gradientUnits="userSpaceOnUse" cx="450.908936" cy="189.579361" fx="450.908936" fy="189.579361" r="21.166656" gradientTransform="matrix(-0.000000261256,-0.117199,0.210958,-0.000000152308,-27.589573,95.392999)">
-=======
-<radialGradient id="radial0" gradientUnits="userSpaceOnUse" cx="450.908936" cy="189.579361" fx="450.908936" fy="189.579361" r="21.166656" gradientTransform="matrix(0.000000261256,-0.117199,-0.210958,-0.000000152308,74.226854,95.392999)">
-<stop offset="0" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.313725;"/>
-<<<<<<< HEAD
-<stop offset="0.222222" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.27451;"/>
-<stop offset="1" style="stop-color:rgb(0%,0%,0%);stop-opacity:0;"/>
-</radialGradient>
-<radialGradient id="radial1" gradientUnits="userSpaceOnUse" cx="450.908936" cy="189.579361" fx="450.908936" fy="189.579361" r="21.166656" gradientTransform="matrix(-0.000000261256,0.117199,0.210958,0.000000152308,-27.589573,-11.291218)">
-<stop offset="0" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.313725;"/>
-<stop offset="0.222222" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.27451;"/>
-<stop offset="1" style="stop-color:rgb(0%,0%,0%);stop-opacity:0;"/>
-</radialGradient>
-<radialGradient id="radial2" gradientUnits="userSpaceOnUse" cx="450.908936" cy="189.579361" fx="450.908936" fy="189.579361" r="21.166656" gradientTransform="matrix(-0.000000261256,-0.117199,0.210958,-0.000000152308,-27.589573,95.392999)">
-<stop offset="0" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.313725;"/>
-<stop offset="0.222222" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.27451;"/>
-<stop offset="1" style="stop-color:rgb(0%,0%,0%);stop-opacity:0;"/>
-</radialGradient>
-<radialGradient id="radial3" gradientUnits="userSpaceOnUse" cx="450.908936" cy="189.579361" fx="450.908936" fy="189.579361" r="21.166656" gradientTransform="matrix(0.000000261256,0.117199,-0.210958,0.000000152308,74.226851,-11.291219)">
->>>>>>> master
->>>>>>> jack
-<stop offset="0" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.313725;"/>
-<stop offset="0.222222" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.27451;"/>
-<stop offset="1" style="stop-color:rgb(0%,0%,0%);stop-opacity:0;"/>
-</radialGradient>
-<<<<<<< HEAD
-<linearGradient id="linear1" gradientUnits="userSpaceOnUse" x1="940" y1="1695.118164" x2="940" y2="175.118118" gradientTransform="matrix(0.0248071,0,0,0.0248071,0,0)">
-<stop offset="0" style="stop-color:rgb(62.352941%,65.882353%,85.490196%);stop-opacity:1;"/>
-<stop offset="1" style="stop-color:rgb(77.254902%,79.215686%,91.372549%);stop-opacity:1;"/>
-=======
-=======
-<stop offset="0.222222" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.27451;"/>
-<stop offset="1" style="stop-color:rgb(0%,0%,0%);stop-opacity:0;"/>
-</radialGradient>
-<radialGradient id="radial1" gradientUnits="userSpaceOnUse" cx="450.908936" cy="189.579361" fx="450.908936" fy="189.579361" r="21.166656" gradientTransform="matrix(-0.000000261256,0.117199,0.210958,0.000000152308,-27.589573,-11.291218)">
-<stop offset="0" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.313725;"/>
-<stop offset="0.222222" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.27451;"/>
-<stop offset="1" style="stop-color:rgb(0%,0%,0%);stop-opacity:0;"/>
-</radialGradient>
-<radialGradient id="radial2" gradientUnits="userSpaceOnUse" cx="450.908936" cy="189.579361" fx="450.908936" fy="189.579361" r="21.166656" gradientTransform="matrix(-0.000000261256,-0.117199,0.210958,-0.000000152308,-27.589573,95.392999)">
-<stop offset="0" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.313725;"/>
-<stop offset="0.222222" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.27451;"/>
-<stop offset="1" style="stop-color:rgb(0%,0%,0%);stop-opacity:0;"/>
-</radialGradient>
-<radialGradient id="radial3" gradientUnits="userSpaceOnUse" cx="450.908936" cy="189.579361" fx="450.908936" fy="189.579361" r="21.166656" gradientTransform="matrix(0.000000261256,0.117199,-0.210958,0.000000152308,74.226851,-11.291219)">
->>>>>>> master
-<stop offset="0" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.313725;"/>
-<stop offset="0.222222" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.27451;"/>
-<stop offset="1" style="stop-color:rgb(0%,0%,0%);stop-opacity:0;"/>
-</radialGradient>
->>>>>>> jack
-<<<<<<< HEAD
-<radialGradient id="radial3" gradientUnits="userSpaceOnUse" cx="450.908936" cy="189.579361" fx="450.908936" fy="189.579361" r="21.166656" gradientTransform="matrix(0.000000261256,0.117199,-0.210958,0.000000152308,74.226851,-11.291219)">
->>>>>>> master
-<stop offset="0" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.313725;"/>
-<stop offset="0.222222" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.27451;"/>
-<stop offset="1" style="stop-color:rgb(0%,0%,0%);stop-opacity:0;"/>
-</radialGradient>
-<<<<<<< HEAD
-<radialGradient id="radial1" gradientUnits="userSpaceOnUse" cx="450.908936" cy="189.579361" fx="450.908936" fy="189.579361" r="21.166656" gradientTransform="matrix(-0.000000261256,0.117199,0.210958,0.000000152308,-27.589573,-11.291218)">
-<stop offset="0" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.313725;"/>
-<stop offset="0.222222" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.27451;"/>
-<stop offset="1" style="stop-color:rgb(0%,0%,0%);stop-opacity:0;"/>
-</radialGradient>
-<radialGradient id="radial2" gradientUnits="userSpaceOnUse" cx="450.908936" cy="189.579361" fx="450.908936" fy="189.579361" r="21.166656" gradientTransform="matrix(-0.000000261256,-0.117199,0.210958,-0.000000152308,-27.589573,95.392999)">
-<stop offset="0" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.313725;"/>
-<stop offset="0.222222" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.27451;"/>
-<stop offset="1" style="stop-color:rgb(0%,0%,0%);stop-opacity:0;"/>
-</radialGradient>
-<radialGradient id="radial3" gradientUnits="userSpaceOnUse" cx="450.908936" cy="189.579361" fx="450.908936" fy="189.579361" r="21.166656" gradientTransform="matrix(0.000000261256,0.117199,-0.210958,0.000000152308,74.226851,-11.291219)">
-<stop offset="0" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.313725;"/>
->>>>>>> fe3533a9f (merge cbernix repo into jack)
 <stop offset="0.222222" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.27451;"/>
 <stop offset="1" style="stop-color:rgb(0%,0%,0%);stop-opacity:0;"/>
 </radialGradient>
 <linearGradient id="linear1" gradientUnits="userSpaceOnUse" x1="940" y1="1695.118164" x2="940" y2="175.118118" gradientTransform="matrix(0.0248071,0,0,0.0248071,0,0)">
-<<<<<<< HEAD
 <stop offset="0" style="stop-color:rgb(62.352943%,65.882355%,85.490197%);stop-opacity:1;"/>
 <stop offset="1" style="stop-color:rgb(77.254903%,79.215688%,91.37255%);stop-opacity:1;"/>
-=======
-<stop offset="0" style="stop-color:rgb(62.352941%,65.882353%,85.490196%);stop-opacity:1;"/>
-<stop offset="1" style="stop-color:rgb(77.254902%,79.215686%,91.372549%);stop-opacity:1;"/>
->>>>>>> fe3533a9f (merge cbernix repo into jack)
-=======
-<linearGradient id="linear1" gradientUnits="userSpaceOnUse" x1="940" y1="1695.118164" x2="940" y2="175.118118" gradientTransform="matrix(0.0248071,0,0,0.0248071,0,0)">
-<stop offset="0" style="stop-color:rgb(62.352941%,65.882353%,85.490196%);stop-opacity:1;"/>
-<stop offset="1" style="stop-color:rgb(77.254902%,79.215686%,91.372549%);stop-opacity:1;"/>
->>>>>>> master
-=======
-<linearGradient id="linear1" gradientUnits="userSpaceOnUse" x1="940" y1="1695.118164" x2="940" y2="175.118118" gradientTransform="matrix(0.0248071,0,0,0.0248071,0,0)">
-<stop offset="0" style="stop-color:rgb(62.352941%,65.882353%,85.490196%);stop-opacity:1;"/>
-<stop offset="1" style="stop-color:rgb(77.254902%,79.215686%,91.372549%);stop-opacity:1;"/>
->>>>>>> master
-<<<<<<< HEAD
->>>>>>> jack
-=======
->>>>>>> jack
 </linearGradient>
 <filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
   <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
@@ -206,29 +35,7 @@
 <image id="image13" width="48" height="48" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABmJLR0QA/wD/AP+gvaeTAAAAg0lEQVRoge3PMQ2EABAF0Q+hRgQ28IJDfCDgOhJaPFAhgCWXSzimmVfuNn+aXPVJpuJO2pPM1aMpbkOS9a9zfrckGatH+/KQxxlAM4BmAM0AmgE0A2gG0AygGUAzgGYAzQCaATQDaAbQDKAZQDOAZgDNAJoBtK64HUk+bw/5YqMH6M4JitQHCfeA/1IAAAAASUVORK5CYII="/>
 <mask id="mask0">
   <g filter="url(#alpha)">
-<<<<<<< HEAD
-<<<<<<< HEAD
-<rect x="0" y="0" width="48" height="48" style="fill:rgb(0%,0%,0%);fill-opacity:0.988235;stroke:none;"/>
-=======
-<<<<<<< HEAD
-=======
->>>>>>> jack
-<<<<<<< HEAD
-<<<<<<< HEAD
 <use xlink:href="#image13"/>
-=======
-<rect x="0" y="0" width="48" height="48" style="fill:rgb(0%,0%,0%);fill-opacity:0.988235;stroke:none;"/>
->>>>>>> fe3533a9f (merge cbernix repo into jack)
-=======
-<rect x="0" y="0" width="48" height="48" style="fill:rgb(0%,0%,0%);fill-opacity:0.988235;stroke:none;"/>
->>>>>>> master
-=======
-<rect x="0" y="0" width="48" height="48" style="fill:rgb(0%,0%,0%);fill-opacity:0.988235;stroke:none;"/>
->>>>>>> master
-<<<<<<< HEAD
->>>>>>> jack
-=======
->>>>>>> jack
   </g>
 </mask>
 <clipPath id="clip1">
@@ -244,59 +51,12 @@
 <image id="image25" width="48" height="48" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABmJLR0QA/wD/AP+gvaeTAAAAZUlEQVRoge3PwQmEAAwF0XHxYA+yPVqRDWknXmxAsAQlBL6HeZBjQgYkSZIkFQ3FvT8wNf5xAGfjvUc7cDXOUn3kV138CgPSDEgzIM2ANAPSDEgzIG0s7q3A3PjH1nhLkiRJ0js3btUXq5RtBBAAAAAASUVORK5CYII="/>
 <mask id="mask1">
   <g filter="url(#alpha)">
-<<<<<<< HEAD
-<<<<<<< HEAD
-<rect x="0" y="0" width="48" height="48" style="fill:rgb(0%,0%,0%);fill-opacity:0.988235;stroke:none;"/>
-  </g>
-</mask>
-<linearGradient id="linear3" gradientUnits="userSpaceOnUse" x1="960" y1="1695.118164" x2="960" y2="175.118118" gradientTransform="matrix(1,0,0,1,0,0)">
-<stop offset="0" style="stop-color:rgb(36.078431%,41.960784%,75.294118%);stop-opacity:1;"/>
-<stop offset="1" style="stop-color:rgb(47.45098%,52.54902%,79.607843%);stop-opacity:1;"/>
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 <use xlink:href="#image25"/>
   </g>
 </mask>
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-<use xlink:href="#image25"/>
-  </g>
-</mask>
->>>>>>> jack
 <linearGradient id="linear3" gradientUnits="userSpaceOnUse" x1="960" y1="1695.118164" x2="960" y2="175.118118" >
 <stop offset="0" style="stop-color:rgb(36.078432%,41.960785%,75.294119%);stop-opacity:1;"/>
 <stop offset="1" style="stop-color:rgb(47.450981%,52.549022%,79.607844%);stop-opacity:1;"/>
-=======
-<rect x="0" y="0" width="48" height="48" style="fill:rgb(0%,0%,0%);fill-opacity:0.988235;stroke:none;"/>
-  </g>
-</mask>
-<linearGradient id="linear3" gradientUnits="userSpaceOnUse" x1="960" y1="1695.118164" x2="960" y2="175.118118" gradientTransform="matrix(1,0,0,1,0,0)">
-<stop offset="0" style="stop-color:rgb(36.078431%,41.960784%,75.294118%);stop-opacity:1;"/>
-<stop offset="1" style="stop-color:rgb(47.45098%,52.54902%,79.607843%);stop-opacity:1;"/>
->>>>>>> fe3533a9f (merge cbernix repo into jack)
-=======
-<rect x="0" y="0" width="48" height="48" style="fill:rgb(0%,0%,0%);fill-opacity:0.988235;stroke:none;"/>
-  </g>
-</mask>
-<linearGradient id="linear3" gradientUnits="userSpaceOnUse" x1="960" y1="1695.118164" x2="960" y2="175.118118" gradientTransform="matrix(1,0,0,1,0,0)">
-<stop offset="0" style="stop-color:rgb(36.078431%,41.960784%,75.294118%);stop-opacity:1;"/>
-<stop offset="1" style="stop-color:rgb(47.45098%,52.54902%,79.607843%);stop-opacity:1;"/>
->>>>>>> master
-=======
-<rect x="0" y="0" width="48" height="48" style="fill:rgb(0%,0%,0%);fill-opacity:0.988235;stroke:none;"/>
-  </g>
-</mask>
-<linearGradient id="linear3" gradientUnits="userSpaceOnUse" x1="960" y1="1695.118164" x2="960" y2="175.118118" gradientTransform="matrix(1,0,0,1,0,0)">
-<stop offset="0" style="stop-color:rgb(36.078431%,41.960784%,75.294118%);stop-opacity:1;"/>
-<stop offset="1" style="stop-color:rgb(47.45098%,52.54902%,79.607843%);stop-opacity:1;"/>
->>>>>>> master
-<<<<<<< HEAD
->>>>>>> jack
-=======
->>>>>>> jack
 </linearGradient>
 <clipPath id="clip2">
   <rect x="0" y="0" width="48" height="48"/>
@@ -304,39 +64,9 @@
 <g id="surface24" clip-path="url(#clip2)">
 <path style="fill-rule:nonzero;fill:url(#linear3);stroke-width:11.338583;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(12.941177%,12.941177%,12.941177%);stroke-opacity:1;stroke-miterlimit:4;" d="M 620.097794 695.208674 C 608.917767 695.208674 599.942253 704.026723 599.942253 715.049284 L 599.942253 755.2029 C 599.942253 766.225461 608.917767 775.04351 620.097794 775.04351 L 1260.036197 775.04351 C 1271.058758 775.04351 1280.034273 766.225461 1280.034273 755.2029 L 1280.034273 715.049284 C 1280.034273 704.026723 1271.058758 695.208674 1260.036197 695.208674 Z M 620.097794 855.193275 C 608.917767 855.193275 599.942253 864.011324 599.942253 875.19135 L 599.942253 915.187501 C 599.942253 926.210062 608.917767 935.185576 620.097794 935.185576 L 1260.036197 935.185576 C 1271.058758 935.185576 1280.034273 926.210062 1280.034273 915.187501 L 1280.034273 875.19135 C 1280.034273 864.011324 1271.058758 855.193275 1260.036197 855.193275 Z M 620.097794 1015.020411 C 608.917767 1015.020411 599.942253 1023.995925 599.942253 1035.175951 L 599.942253 1075.172101 C 599.942253 1086.194663 608.917767 1095.170177 620.097794 1095.170177 L 1260.036197 1095.170177 C 1271.058758 1095.170177 1280.034273 1086.194663 1280.034273 1075.172101 L 1280.034273 1035.175951 C 1280.034273 1023.995925 1271.058758 1015.020411 1260.036197 1015.020411 Z M 620.097794 1175.162477 C 608.917767 1175.162477 599.942253 1184.137991 599.942253 1195.160552 L 599.942253 1235.156702 C 599.942253 1246.179263 608.917767 1255.154777 620.097794 1255.154777 L 1260.036197 1255.154777 C 1271.058758 1255.154777 1280.034273 1246.179263 1280.034273 1235.156702 L 1280.034273 1195.160552 C 1280.034273 1184.137991 1271.058758 1175.162477 1260.036197 1175.162477 Z M 620.097794 1175.162477 " transform="matrix(0.0248071,0,0,0.0248071,0,0)"/>
 </g>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<linearGradient id="linear4" gradientUnits="userSpaceOnUse" x1="338.666656" y1="233.5" x2="338.666656" y2="-168.666672" gradientTransform="matrix(0.093759,0,0,0.093759,0,20.158175)">
-<stop offset="0" style="stop-color:rgb(36.078431%,41.960784%,75.294118%);stop-opacity:1;"/>
-<stop offset="1" style="stop-color:rgb(47.45098%,52.54902%,79.607843%);stop-opacity:1;"/>
-=======
-<<<<<<< HEAD
-=======
->>>>>>> jack
-<<<<<<< HEAD
-<<<<<<< HEAD
 <linearGradient id="linear4" gradientUnits="userSpaceOnUse" x1="338.666656" y1="233.5" x2="338.666656" y2="-168.666672" gradientTransform="matrix(0.093759,0,0,0.093759,0,20.158174)">
 <stop offset="0" style="stop-color:rgb(36.078432%,41.960785%,75.294119%);stop-opacity:1;"/>
 <stop offset="1" style="stop-color:rgb(47.450981%,52.549022%,79.607844%);stop-opacity:1;"/>
-=======
-<linearGradient id="linear4" gradientUnits="userSpaceOnUse" x1="338.666656" y1="233.5" x2="338.666656" y2="-168.666672" gradientTransform="matrix(0.093759,0,0,0.093759,0,20.158175)">
-<stop offset="0" style="stop-color:rgb(36.078431%,41.960784%,75.294118%);stop-opacity:1;"/>
-<stop offset="1" style="stop-color:rgb(47.45098%,52.54902%,79.607843%);stop-opacity:1;"/>
->>>>>>> fe3533a9f (merge cbernix repo into jack)
-=======
-<linearGradient id="linear4" gradientUnits="userSpaceOnUse" x1="338.666656" y1="233.5" x2="338.666656" y2="-168.666672" gradientTransform="matrix(0.093759,0,0,0.093759,0,20.158175)">
-<stop offset="0" style="stop-color:rgb(36.078431%,41.960784%,75.294118%);stop-opacity:1;"/>
-<stop offset="1" style="stop-color:rgb(47.45098%,52.54902%,79.607843%);stop-opacity:1;"/>
->>>>>>> master
-=======
-<linearGradient id="linear4" gradientUnits="userSpaceOnUse" x1="338.666656" y1="233.5" x2="338.666656" y2="-168.666672" gradientTransform="matrix(0.093759,0,0,0.093759,0,20.158175)">
-<stop offset="0" style="stop-color:rgb(36.078431%,41.960784%,75.294118%);stop-opacity:1;"/>
-<stop offset="1" style="stop-color:rgb(47.45098%,52.54902%,79.607843%);stop-opacity:1;"/>
->>>>>>> master
-<<<<<<< HEAD
->>>>>>> jack
-=======
->>>>>>> jack
 </linearGradient>
 </defs>
 <g id="surface1">

@@ -1,12 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<svg xmlns="http://www.w3.org/2000/svg" width="16pt" height="16pt" viewBox="0 0 16 16"><path d="M11.328 2.11h.578v11.906h-.992V2.109zm0 0" fill="#ff7043" fill-opacity=".99"/><path d="M6.613 8.063L1.984 2.109h11.907v11.907H1.984zm0 0" fill="none" stroke-width=".9984375" stroke-linecap="round" stroke-linejoin="round" stroke="#bdbdbd"/></svg>
-=======
-<<<<<<< HEAD
-=======
->>>>>>> jack
-<<<<<<< HEAD
-<<<<<<< HEAD
 
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16px" height="16px" viewBox="0 0 16 16" version="1.1">
 <g id="surface1">
@@ -18,16 +9,3 @@
 <path style="fill:currentColor" class="ColorScheme-Text" d="M 1.960938 2 L 6.765625 8 L 1.960938 14 L 12 14 C 13.109375 14 14 13.109375 14 12 L 14 4 C 14 2.890625 13.109375 2 12 2 Z M 4.039062 3 L 12 3 C 12.554688 3 13 3.445312 13 4 L 13 12 C 13 12.554688 12.554688 13 12 13 L 4.039062 13 L 8.046875 8 Z M 4.039062 3 "/>
 </g>
 </svg>
-=======
-<svg xmlns="http://www.w3.org/2000/svg" width="16pt" height="16pt" viewBox="0 0 16 16"><path d="M11.328 2.11h.578v11.906h-.992V2.109zm0 0" fill="#ff7043" fill-opacity=".99"/><path d="M6.613 8.063L1.984 2.109h11.907v11.907H1.984zm0 0" fill="none" stroke-width=".9984375" stroke-linecap="round" stroke-linejoin="round" stroke="#bdbdbd"/></svg>
->>>>>>> fe3533a9f (merge cbernix repo into jack)
-=======
-<svg xmlns="http://www.w3.org/2000/svg" width="16pt" height="16pt" viewBox="0 0 16 16"><path d="M11.328 2.11h.578v11.906h-.992V2.109zm0 0" fill="#ff7043" fill-opacity=".99"/><path d="M6.613 8.063L1.984 2.109h11.907v11.907H1.984zm0 0" fill="none" stroke-width=".9984375" stroke-linecap="round" stroke-linejoin="round" stroke="#bdbdbd"/></svg>
->>>>>>> master
-=======
-<svg xmlns="http://www.w3.org/2000/svg" width="16pt" height="16pt" viewBox="0 0 16 16"><path d="M11.328 2.11h.578v11.906h-.992V2.109zm0 0" fill="#ff7043" fill-opacity=".99"/><path d="M6.613 8.063L1.984 2.109h11.907v11.907H1.984zm0 0" fill="none" stroke-width=".9984375" stroke-linecap="round" stroke-linejoin="round" stroke="#bdbdbd"/></svg>
->>>>>>> master
-<<<<<<< HEAD
->>>>>>> jack
-=======
->>>>>>> jack

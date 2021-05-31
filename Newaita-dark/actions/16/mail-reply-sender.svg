@@ -1,12 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<svg xmlns="http://www.w3.org/2000/svg" width="16pt" height="16pt" viewBox="0 0 16 16"><path d="M13.89 2.11c.735 0 1.325.59 1.325 1.324v9.59a1.32 1.32 0 0 1-1.324 1.324H7.937v-.993h5.625c.364 0 .66-.296.66-.66V3.867L8.32 9.152a.577.577 0 0 1-.761 0L1.652 3.867v4.86H.66V3.434c0-.735.59-1.325 1.324-1.325zm-.523.992H2.512l5.425 4.855zm0 0" fill="#bdbdbd"/><path d="M3.148 9.719l-1.984 1.984 1.984 1.985M5.953 9.719L3.97 11.703l1.984 1.985M4.3 11.703h5.118" fill="none" stroke-width=".9984375" stroke-linecap="round" stroke-linejoin="round" stroke="#ffa726"/></svg>
-=======
-<<<<<<< HEAD
-=======
->>>>>>> jack
-<<<<<<< HEAD
-<<<<<<< HEAD
 
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16px" height="16px" viewBox="0 0 16 16" version="1.1">
 <g id="surface1">
@@ -18,16 +9,3 @@
 <path style="fill:currentColor" class="ColorScheme-Text" d="M 12 3 C 13.109375 3 14 3.890625 14 5 L 14 11 C 14 12.109375 13.109375 13 12 13 L 8 13 L 8 12 L 12 12 C 12.554688 12 13 11.554688 13 11 L 13 5 C 13 4.890625 12.96875 4.789062 12.9375 4.6875 L 8 8.640625 L 3.0625 4.6875 C 3.03125 4.789062 3 4.890625 3 5 L 3 9 L 2 9 L 2 5 C 2 3.890625 2.890625 3 4 3 Z M 12 4 L 4 4 C 3.941406 4 3.894531 4.023438 3.839844 4.03125 L 8 7.359375 L 12.160156 4.03125 C 12.105469 4.023438 12.058594 4 12 4 Z M 4 9 L 4 10 L 7 10 L 7 12 L 4 12 L 4 13 L 2 11 Z M 4 9 "/>
 </g>
 </svg>
-=======
-<svg xmlns="http://www.w3.org/2000/svg" width="16pt" height="16pt" viewBox="0 0 16 16"><path d="M13.89 2.11c.735 0 1.325.59 1.325 1.324v9.59a1.32 1.32 0 0 1-1.324 1.324H7.937v-.993h5.625c.364 0 .66-.296.66-.66V3.867L8.32 9.152a.577.577 0 0 1-.761 0L1.652 3.867v4.86H.66V3.434c0-.735.59-1.325 1.324-1.325zm-.523.992H2.512l5.425 4.855zm0 0" fill="#bdbdbd"/><path d="M3.148 9.719l-1.984 1.984 1.984 1.985M5.953 9.719L3.97 11.703l1.984 1.985M4.3 11.703h5.118" fill="none" stroke-width=".9984375" stroke-linecap="round" stroke-linejoin="round" stroke="#ffa726"/></svg>
->>>>>>> fe3533a9f (merge cbernix repo into jack)
-=======
-<svg xmlns="http://www.w3.org/2000/svg" width="16pt" height="16pt" viewBox="0 0 16 16"><path d="M13.89 2.11c.735 0 1.325.59 1.325 1.324v9.59a1.32 1.32 0 0 1-1.324 1.324H7.937v-.993h5.625c.364 0 .66-.296.66-.66V3.867L8.32 9.152a.577.577 0 0 1-.761 0L1.652 3.867v4.86H.66V3.434c0-.735.59-1.325 1.324-1.325zm-.523.992H2.512l5.425 4.855zm0 0" fill="#bdbdbd"/><path d="M3.148 9.719l-1.984 1.984 1.984 1.985M5.953 9.719L3.97 11.703l1.984 1.985M4.3 11.703h5.118" fill="none" stroke-width=".9984375" stroke-linecap="round" stroke-linejoin="round" stroke="#ffa726"/></svg>
->>>>>>> master
-=======
-<svg xmlns="http://www.w3.org/2000/svg" width="16pt" height="16pt" viewBox="0 0 16 16"><path d="M13.89 2.11c.735 0 1.325.59 1.325 1.324v9.59a1.32 1.32 0 0 1-1.324 1.324H7.937v-.993h5.625c.364 0 .66-.296.66-.66V3.867L8.32 9.152a.577.577 0 0 1-.761 0L1.652 3.867v4.86H.66V3.434c0-.735.59-1.325 1.324-1.325zm-.523.992H2.512l5.425 4.855zm0 0" fill="#bdbdbd"/><path d="M3.148 9.719l-1.984 1.984 1.984 1.985M5.953 9.719L3.97 11.703l1.984 1.985M4.3 11.703h5.118" fill="none" stroke-width=".9984375" stroke-linecap="round" stroke-linejoin="round" stroke="#ffa726"/></svg>
->>>>>>> master
-<<<<<<< HEAD
->>>>>>> jack
-=======
->>>>>>> jack

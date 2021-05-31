@@ -1,25 +1,7 @@
 [Icon Theme]
 Name=Newaita-dark
 Comment=Personality icon theme by Cybernix (ghostdmn2@gmail.com)
-<<<<<<< HEAD
-<<<<<<< HEAD
-Inherits=Newaita,Adwaita,hicolor
-=======
-<<<<<<< HEAD
-=======
->>>>>>> jack
-<<<<<<< HEAD
-Inherits=breeze,gnome,hicolor
-=======
-Inherits=Newaita,Adwaita,hicolor
->>>>>>> master
-=======
-Inherits=Newaita,Adwaita,hicolor
->>>>>>> master
-<<<<<<< HEAD
->>>>>>> jack
-=======
->>>>>>> jack
+Inherits=breeze-dark,gnome,hicolor
 
 Example=folder
 
