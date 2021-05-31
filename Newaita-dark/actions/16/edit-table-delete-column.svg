@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16px" height="16px" viewBox="0 0 16 16" version="1.1">
 <g id="surface1">
@@ -10,3 +11,6 @@
 <path style=" stroke:none;fill-rule:nonzero;fill:rgb(95.686275%,26.274511%,21.176471%);fill-opacity:1;" d="M 5 3 L 5 13 L 6 13 L 6 12 L 10 11 L 10 13 L 11 13 L 11 3 L 10 3 L 10 4 L 6 5 L 6 3 Z M 10 5 L 10 6 L 6 7 L 6 6 Z M 10 7 L 10 8 L 6 9 L 6 8 Z M 10 9 L 10 10 L 6 11 L 6 10 Z M 10 9 "/>
 </g>
 </svg>
+=======
+<svg xmlns="http://www.w3.org/2000/svg" width="16pt" height="16pt" viewBox="0 0 16 16"><path d="M1.652.785a.663.663 0 0 0-.66.664v12.899c0 .367.297.66.66.66h12.57c.368 0 .66-.293.66-.66V1.449a.66.66 0 0 0-.66-.664zm.664.992h11.246c.184 0 .329.149.329.332v3.309h-3.305v.992h3.305V9.72h-3.305v.992h3.305v2.976a.325.325 0 0 1-.329.329H2.316a.328.328 0 0 1-.332-.329v-2.976h3.309v-.992H1.984V6.41h3.309v-.992H1.984V2.109c0-.183.149-.332.332-.332zm0 0" fill="#bdbdbd"/><path d="M5.293 1.777v12.239h.992v-.2l3.309-3.308v3.508h.992V1.777h-.992L6.285 5.086V1.777zm4.3 1.407v2.195L6.286 8.684V6.488zm0 3.597v2.324l-3.308 3.31V10.09zm0 0" fill="#ef5350"/></svg>
+>>>>>>> fe3533a9f (merge cbernix repo into jack)

@@ -1,6 +1,10 @@
 [Dolphin]
+<<<<<<< HEAD
 PreviewsShown=false
 Timestamp=2020,4,15,21,12,35
+=======
+Timestamp=2018,9,13,13,16,56
+>>>>>>> fe3533a9f (merge cbernix repo into jack)
 Version=4
 
 [Settings]

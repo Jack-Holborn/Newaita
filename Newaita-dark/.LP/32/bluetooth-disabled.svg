@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32px" height="32px" viewBox="0 0 32 32" version="1.1">
 <defs>
@@ -26,3 +27,6 @@
 <use xlink:href="#surface14" mask="url(#mask0)"/>
 </g>
 </svg>
+=======
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32"><path d="M6.613 9.18l15.219 12.57-7.941 5.293V3.887l7.941 5.293L6.613 21.418" fill="none" stroke-width="1.9971944999999998" stroke-linecap="round" stroke-linejoin="round" stroke="#424242" stroke-opacity=".392"/></svg>
+>>>>>>> fe3533a9f (merge cbernix repo into jack)

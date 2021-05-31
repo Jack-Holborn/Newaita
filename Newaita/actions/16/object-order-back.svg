@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16px" height="16px" viewBox="0 0 16 16" version="1.1">
 <g id="surface1">
@@ -9,3 +10,6 @@
 <path style="fill:currentColor" class="ColorScheme-Text" d="M 2 3 L 2 4 L 9 4 L 9 3 Z M 11 3 L 11 9 L 10 9 L 12 11 L 14 9 L 13 9 L 13 3 Z M 2 6 L 2 7 L 9 7 L 9 6 Z M 2 9 L 2 10 L 9 10 L 9 9 Z M 2 12 L 2 13 L 14 13 L 14 12 Z M 2 12 "/>
 </g>
 </svg>
+=======
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"><path d="M7.113 3.277h6.946a.497.497 0 0 0 0-.992H7.113c-.277 0-.5.223-.5.496 0 .274.223.496.5.496zm0 0M7.113 6.914h6.946a.497.497 0 0 0 0-.992H7.113a.495.495 0 1 0 0 .992zm0 0M7.113 10.555h6.946a.497.497 0 0 0 0-.992H7.113c-.277 0-.5.222-.5.496 0 .273.223.496.5.496zm0 0M1.82 14.191H14.06a.497.497 0 0 0 0-.992H1.82a.497.497 0 0 0 0 .992zm0 0" fill="#424242"/><path d="M5.621 9.895l-1.984 1.984-1.985-1.984M3.637 11.215V2.617" fill="none" stroke-width=".9984375" stroke-linecap="round" stroke-linejoin="round" stroke="#ec407a"/></svg>
+>>>>>>> fe3533a9f (merge cbernix repo into jack)

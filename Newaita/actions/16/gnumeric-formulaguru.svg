@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16px" height="16px" viewBox="0 0 16 16" version="1.1">
 <g id="surface1">
@@ -9,3 +10,6 @@
 <path style="fill:currentColor" class="ColorScheme-Text" d="M 4 2 C 2.890625 2 2 2.890625 2 4 L 2 10 L 3 10 L 3 8 L 7 8 L 7 10 L 8 10 L 8 4 C 8 2.890625 7.109375 2 6 2 Z M 4 3 L 6 3 C 6.554688 3 7 3.445312 7 4 L 7 7 L 3 7 L 3 4 C 3 3.445312 3.445312 3 4 3 Z M 9.75 8 L 8.882812 8.492188 L 10.363281 11 L 8.882812 13.511719 L 9.75 14 L 10.941406 11.980469 L 12.136719 14 L 13 13.511719 L 11.519531 11 L 13 8.492188 L 12.136719 8 L 10.941406 10.019531 Z M 9.75 8 "/>
 </g>
 </svg>
+=======
+<svg xmlns="http://www.w3.org/2000/svg" width="16pt" height="16pt" viewBox="0 0 16 16"><g fill="none" stroke-width="31.95" stroke-linecap="round" stroke-linejoin="round"><path d="M10.586 5.418c0-1.984-1.656-2.648-2.977-2.648-1.324 0-3.308.664-3.308 2.648v7.937" stroke="#424242" stroke-width=".9984375"/><path d="M9.102 10.379l2.804 2.805" stroke="#ec407a" stroke-width=".9984375"/><path d="M4.3 8.063h3.97" stroke="#424242" stroke-width=".9984375"/><path d="M11.906 10.379l-2.804 2.805" stroke="#ec407a" stroke-width=".9984375"/></g></svg>
+>>>>>>> fe3533a9f (merge cbernix repo into jack)
