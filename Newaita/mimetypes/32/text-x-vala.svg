@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32px" height="32px" viewBox="0 0 32 32" version="1.1">
 <defs>
@@ -11,6 +12,8 @@
 =======
 =======
 >>>>>>> master
+=======
+>>>>>>> master
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32pt" height="32pt" viewBox="0 0 32 32" version="1.1">
 <defs>
@@ -20,13 +23,17 @@
 </linearGradient>
 <radialGradient id="radial0" gradientUnits="userSpaceOnUse" cx="450.90894" cy="189.57936" fx="450.90894" fy="189.57936" r="21.166656" gradientTransform="matrix(0.00000017417,-0.0781325,-0.140638,-0.000000101539,49.484569,63.595334)">
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> fe3533a9f (merge cbernix repo into jack)
+=======
+>>>>>>> master
 =======
 >>>>>>> master
 <stop offset="0" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.313725;"/>
 <stop offset="0.222222" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.27451;"/>
 <stop offset="1" style="stop-color:rgb(0%,0%,0%);stop-opacity:0;"/>
 </radialGradient>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <radialGradient id="radial1" gradientUnits="userSpaceOnUse" cx="450.908936" cy="189.579361" fx="450.908936" fy="189.579361" r="21.166656" gradientTransform="matrix(-0.000000175,0.0781325,0.140639,0.0000001,-18.393051,-7.527479)">
@@ -36,10 +43,14 @@
 =======
 <radialGradient id="radial1" gradientUnits="userSpaceOnUse" cx="450.90894" cy="189.57936" fx="450.90894" fy="189.57936" r="21.166656" gradientTransform="matrix(-0.00000017417,0.0781325,0.140638,0.000000101539,-18.393051,-7.527479)">
 >>>>>>> master
+=======
+<radialGradient id="radial1" gradientUnits="userSpaceOnUse" cx="450.90894" cy="189.57936" fx="450.90894" fy="189.57936" r="21.166656" gradientTransform="matrix(-0.00000017417,0.0781325,0.140638,0.000000101539,-18.393051,-7.527479)">
+>>>>>>> master
 <stop offset="0" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.313725;"/>
 <stop offset="0.222222" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.27451;"/>
 <stop offset="1" style="stop-color:rgb(0%,0%,0%);stop-opacity:0;"/>
 </radialGradient>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <radialGradient id="radial2" gradientUnits="userSpaceOnUse" cx="450.908936" cy="189.579361" fx="450.908936" fy="189.579361" r="21.166656" gradientTransform="matrix(-0.000000175,-0.0781325,0.140639,-0.0000001,-18.393051,63.595333)">
@@ -49,10 +60,14 @@
 =======
 <radialGradient id="radial2" gradientUnits="userSpaceOnUse" cx="450.90894" cy="189.57936" fx="450.90894" fy="189.57936" r="21.166656" gradientTransform="matrix(-0.00000017417,-0.0781325,0.140638,-0.000000101539,-18.393051,63.595334)">
 >>>>>>> master
+=======
+<radialGradient id="radial2" gradientUnits="userSpaceOnUse" cx="450.90894" cy="189.57936" fx="450.90894" fy="189.57936" r="21.166656" gradientTransform="matrix(-0.00000017417,-0.0781325,0.140638,-0.000000101539,-18.393051,63.595334)">
+>>>>>>> master
 <stop offset="0" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.313725;"/>
 <stop offset="0.222222" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.27451;"/>
 <stop offset="1" style="stop-color:rgb(0%,0%,0%);stop-opacity:0;"/>
 </radialGradient>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <radialGradient id="radial3" gradientUnits="userSpaceOnUse" cx="450.908936" cy="189.579361" fx="450.908936" fy="189.579361" r="21.166656" gradientTransform="matrix(0.000000175,0.0781325,-0.140639,0.0000001,49.484566,-7.52748)">
@@ -62,10 +77,14 @@
 =======
 <radialGradient id="radial3" gradientUnits="userSpaceOnUse" cx="450.90894" cy="189.57936" fx="450.90894" fy="189.57936" r="21.166656" gradientTransform="matrix(0.00000017417,0.0781325,-0.140638,0.000000101539,49.484568,-7.527479)">
 >>>>>>> master
+=======
+<radialGradient id="radial3" gradientUnits="userSpaceOnUse" cx="450.90894" cy="189.57936" fx="450.90894" fy="189.57936" r="21.166656" gradientTransform="matrix(0.00000017417,0.0781325,-0.140638,0.000000101539,49.484568,-7.527479)">
+>>>>>>> master
 <stop offset="0" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.313725;"/>
 <stop offset="0.222222" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.27451;"/>
 <stop offset="1" style="stop-color:rgb(0%,0%,0%);stop-opacity:0;"/>
 </radialGradient>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <linearGradient id="linear1" gradientUnits="userSpaceOnUse" x1="31.091534" y1="56.067898" x2="31.091534" y2="5.792224" gradientTransform="matrix(0.5,0,0,0.5,0,0)">
@@ -104,6 +123,8 @@
 =======
 =======
 >>>>>>> master
+=======
+>>>>>>> master
 <linearGradient id="linear1" gradientUnits="userSpaceOnUse" x1="940" y1="1695.1182" x2="940" y2="175.11812" gradientTransform="matrix(0.016538,0,0,0.016538,0,0)">
 <stop offset="0" style="stop-color:rgb(95.686275%,56.078431%,69.411765%);stop-opacity:1;"/>
 <stop offset="1" style="stop-color:rgb(97.254902%,73.333333%,81.568627%);stop-opacity:1;"/>
@@ -138,7 +159,10 @@
 <path style=" stroke:none;fill-rule:nonzero;fill:rgb(12.941176%,12.941176%,12.941176%);fill-opacity:1;" d="M 6.613281 2.800781 C 5.832031 2.800781 5.199219 3.4375 5.199219 4.21875 L 5.199219 26.710938 C 5.199219 27.496094 5.832031 28.128906 6.613281 28.128906 L 24.476562 28.128906 C 25.257812 28.128906 25.894531 27.496094 25.894531 26.710938 L 25.894531 10.152344 C 25.894531 10.128906 25.882812 10.105469 25.867188 10.085938 L 18.609375 2.828125 C 18.589844 2.8125 18.566406 2.800781 18.542969 2.800781 Z M 6.613281 2.988281 L 18.503906 2.988281 L 25.707031 10.191406 L 25.707031 26.710938 C 25.707031 27.394531 25.160156 27.941406 24.476562 27.941406 L 6.613281 27.941406 C 5.933594 27.941406 5.386719 27.394531 5.386719 26.710938 L 5.386719 4.21875 C 5.386719 3.535156 5.933594 2.988281 6.613281 2.988281 Z M 6.613281 2.988281 "/>
 <path style="fill-rule:nonzero;fill:url(#linear4);stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(12.941176%,12.941176%,12.941176%);stroke-opacity:1;stroke-miterlimit:4;" d="M 291.159696 -33.704813 C 285.472739 -33.704813 280.410722 -30.017665 278.723383 -24.580684 L 248.726248 65.410722 L 218.729112 -24.580684 C 217.29175 -29.080254 213.604602 -32.454932 208.980043 -33.454837 C 204.355485 -34.392247 199.605939 -32.829896 196.543731 -29.267737 C 193.419029 -25.768071 192.481619 -20.831042 194.04397 -16.393966 L 236.352429 110.593907 C 238.164756 115.9059 243.101785 119.46806 248.726248 119.46806 C 254.288217 119.46806 259.287739 115.9059 261.037572 110.593907 L 303.346032 -16.393966 C 304.783395 -20.33109 304.158454 -24.705672 301.721187 -28.142844 C 299.28392 -31.580016 295.40929 -33.642319 291.159696 -33.704813 Z M 291.159696 -33.704813 " transform="matrix(0.062506,0,0,0.062506,0,13.438783)"/>
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> fe3533a9f (merge cbernix repo into jack)
+=======
+>>>>>>> master
 =======
 >>>>>>> master
 </g>

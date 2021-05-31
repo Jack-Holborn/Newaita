@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16px" height="16px" viewBox="0 0 16 16" version="1.1">
 <g id="surface1">
@@ -14,6 +15,9 @@
 =======
 <svg xmlns="http://www.w3.org/2000/svg" width="16pt" height="16pt" viewBox="0 0 16 16"><path d="M7.938 7.07c.546 0 .992.446.992.992a.994.994 0 0 1-.992.993.994.994 0 0 1-.993-.992c0-.547.446-.993.992-.993zm0 0" fill="#42a5f5" fill-opacity=".985"/><path d="M9.922 3.266L7.937 1.28 5.953 3.266M7.937 1.613V4.75M12.734 10.047l1.985-1.985-1.985-1.984M14.387 8.062h-3.133M3.14 10.047L1.157 8.062l1.985-1.984M1.488 8.062h3.137" fill="none" stroke-width=".9984375" stroke-linecap="round" stroke-linejoin="round" stroke="#bdbdbd"/></svg>
 >>>>>>> fe3533a9f (merge cbernix repo into jack)
+=======
+<svg xmlns="http://www.w3.org/2000/svg" width="16pt" height="16pt" viewBox="0 0 16 16"><path d="M7.938 7.07c.546 0 .992.446.992.992a.994.994 0 0 1-.992.993.994.994 0 0 1-.993-.992c0-.547.446-.993.992-.993zm0 0" fill="#42a5f5" fill-opacity=".985"/><path d="M9.922 3.266L7.937 1.28 5.953 3.266M7.937 1.613V4.75M12.734 10.047l1.985-1.985-1.985-1.984M14.387 8.062h-3.133M3.14 10.047L1.157 8.062l1.985-1.984M1.488 8.062h3.137" fill="none" stroke-width=".9984375" stroke-linecap="round" stroke-linejoin="round" stroke="#bdbdbd"/></svg>
+>>>>>>> master
 =======
 <svg xmlns="http://www.w3.org/2000/svg" width="16pt" height="16pt" viewBox="0 0 16 16"><path d="M7.938 7.07c.546 0 .992.446.992.992a.994.994 0 0 1-.992.993.994.994 0 0 1-.993-.992c0-.547.446-.993.992-.993zm0 0" fill="#42a5f5" fill-opacity=".985"/><path d="M9.922 3.266L7.937 1.28 5.953 3.266M7.937 1.613V4.75M12.734 10.047l1.985-1.985-1.985-1.984M14.387 8.062h-3.133M3.14 10.047L1.157 8.062l1.985-1.984M1.488 8.062h3.137" fill="none" stroke-width=".9984375" stroke-linecap="round" stroke-linejoin="round" stroke="#bdbdbd"/></svg>
 >>>>>>> master

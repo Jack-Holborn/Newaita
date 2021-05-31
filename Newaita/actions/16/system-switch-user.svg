@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16px" height="16px" viewBox="0 0 16 16" version="1.1">
 <g id="surface1">
@@ -9,6 +10,9 @@
 =======
 <svg xmlns="http://www.w3.org/2000/svg" width="16pt" height="16pt" viewBox="0 0 16 16"><path d="M7.938.785A7.277 7.277 0 0 0 .66 8.062a7.277 7.277 0 0 0 7.277 7.278 7.277 7.277 0 0 0 7.278-7.277A7.277 7.277 0 0 0 7.938.785zm0 .992a6.273 6.273 0 0 1 6.285 6.285 6.273 6.273 0 0 1-6.286 6.286 6.273 6.273 0 0 1-6.285-6.286 6.273 6.273 0 0 1 6.285-6.285zm0 0" fill="#26a69a"/><path d="M9.594 4.094l1.984 1.984-1.984 1.985M11.246 6.078H6.613M6.285 8.063l-1.984 1.984 1.984 1.984M4.629 10.047h4.633" fill="none" stroke-width=".9984375" stroke-linecap="round" stroke-linejoin="round" stroke="#26a69a"/></svg>
 >>>>>>> fe3533a9f (merge cbernix repo into jack)
+=======
+<svg xmlns="http://www.w3.org/2000/svg" width="16pt" height="16pt" viewBox="0 0 16 16"><path d="M7.938.785A7.277 7.277 0 0 0 .66 8.062a7.277 7.277 0 0 0 7.277 7.278 7.277 7.277 0 0 0 7.278-7.277A7.277 7.277 0 0 0 7.938.785zm0 .992a6.273 6.273 0 0 1 6.285 6.285 6.273 6.273 0 0 1-6.286 6.286 6.273 6.273 0 0 1-6.285-6.286 6.273 6.273 0 0 1 6.285-6.285zm0 0" fill="#26a69a"/><path d="M9.594 4.094l1.984 1.984-1.984 1.985M11.246 6.078H6.613M6.285 8.063l-1.984 1.984 1.984 1.984M4.629 10.047h4.633" fill="none" stroke-width=".9984375" stroke-linecap="round" stroke-linejoin="round" stroke="#26a69a"/></svg>
+>>>>>>> master
 =======
 <svg xmlns="http://www.w3.org/2000/svg" width="16pt" height="16pt" viewBox="0 0 16 16"><path d="M7.938.785A7.277 7.277 0 0 0 .66 8.062a7.277 7.277 0 0 0 7.277 7.278 7.277 7.277 0 0 0 7.278-7.277A7.277 7.277 0 0 0 7.938.785zm0 .992a6.273 6.273 0 0 1 6.285 6.285 6.273 6.273 0 0 1-6.286 6.286 6.273 6.273 0 0 1-6.285-6.286 6.273 6.273 0 0 1 6.285-6.285zm0 0" fill="#26a69a"/><path d="M9.594 4.094l1.984 1.984-1.984 1.985M11.246 6.078H6.613M6.285 8.063l-1.984 1.984 1.984 1.984M4.629 10.047h4.633" fill="none" stroke-width=".9984375" stroke-linecap="round" stroke-linejoin="round" stroke="#26a69a"/></svg>
 >>>>>>> master

@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16px" height="16px" viewBox="0 0 16 16" version="1.1">
 <g id="surface1">
@@ -14,6 +15,9 @@
 =======
 <svg xmlns="http://www.w3.org/2000/svg" width="16pt" height="16pt" viewBox="0 0 16 16"><path d="M1.82 7.07a.494.494 0 0 0-.496.496v5.79c0 .734.59 1.324 1.32 1.324H13.23a1.32 1.32 0 0 0 1.325-1.325V7.566a.497.497 0 0 0-.992 0v.497h-.024c.016.054.024.109.024.167v4.793a.664.664 0 0 1-.665.665H2.977a.66.66 0 0 1-.66-.665V8.23a.79.79 0 0 1 .019-.168h-.02v-.496a.497.497 0 0 0-.496-.496zm0 0" fill="#bdbdbd"/><path d="M1.652 10.379h12.57v.992H1.653zm0 0" fill="#bdbdbd"/><path d="M5.953 6.738l1.985 1.989 1.984-1.989M7.938 8.063V1.945" fill="none" stroke-width=".9984375" stroke-linecap="round" stroke-linejoin="round" stroke="#26a69a"/></svg>
 >>>>>>> fe3533a9f (merge cbernix repo into jack)
+=======
+<svg xmlns="http://www.w3.org/2000/svg" width="16pt" height="16pt" viewBox="0 0 16 16"><path d="M1.82 7.07a.494.494 0 0 0-.496.496v5.79c0 .734.59 1.324 1.32 1.324H13.23a1.32 1.32 0 0 0 1.325-1.325V7.566a.497.497 0 0 0-.992 0v.497h-.024c.016.054.024.109.024.167v4.793a.664.664 0 0 1-.665.665H2.977a.66.66 0 0 1-.66-.665V8.23a.79.79 0 0 1 .019-.168h-.02v-.496a.497.497 0 0 0-.496-.496zm0 0" fill="#bdbdbd"/><path d="M1.652 10.379h12.57v.992H1.653zm0 0" fill="#bdbdbd"/><path d="M5.953 6.738l1.985 1.989 1.984-1.989M7.938 8.063V1.945" fill="none" stroke-width=".9984375" stroke-linecap="round" stroke-linejoin="round" stroke="#26a69a"/></svg>
+>>>>>>> master
 =======
 <svg xmlns="http://www.w3.org/2000/svg" width="16pt" height="16pt" viewBox="0 0 16 16"><path d="M1.82 7.07a.494.494 0 0 0-.496.496v5.79c0 .734.59 1.324 1.32 1.324H13.23a1.32 1.32 0 0 0 1.325-1.325V7.566a.497.497 0 0 0-.992 0v.497h-.024c.016.054.024.109.024.167v4.793a.664.664 0 0 1-.665.665H2.977a.66.66 0 0 1-.66-.665V8.23a.79.79 0 0 1 .019-.168h-.02v-.496a.497.497 0 0 0-.496-.496zm0 0" fill="#bdbdbd"/><path d="M1.652 10.379h12.57v.992H1.653zm0 0" fill="#bdbdbd"/><path d="M5.953 6.738l1.985 1.989 1.984-1.989M7.938 8.063V1.945" fill="none" stroke-width=".9984375" stroke-linecap="round" stroke-linejoin="round" stroke="#26a69a"/></svg>
 >>>>>>> master

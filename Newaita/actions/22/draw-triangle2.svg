@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22px" height="22px" viewBox="0 0 22 22" version="1.1">
 <g id="surface1">
@@ -14,6 +15,9 @@
 =======
 <svg xmlns="http://www.w3.org/2000/svg" width="22pt" height="22pt" viewBox="0 0 22 22"><path d="M20.012 11.086L1.82.625v20.922zm-3.184 0l-13.644 7.96V3.13zm0 0" fill="#ff7043"/></svg>
 >>>>>>> fe3533a9f (merge cbernix repo into jack)
+=======
+<svg xmlns="http://www.w3.org/2000/svg" width="22pt" height="22pt" viewBox="0 0 22 22"><path d="M20.012 11.086L1.82.625v20.922zm-3.184 0l-13.644 7.96V3.13zm0 0" fill="#ff7043"/></svg>
+>>>>>>> master
 =======
 <svg xmlns="http://www.w3.org/2000/svg" width="22pt" height="22pt" viewBox="0 0 22 22"><path d="M20.012 11.086L1.82.625v20.922zm-3.184 0l-13.644 7.96V3.13zm0 0" fill="#ff7043"/></svg>
 >>>>>>> master

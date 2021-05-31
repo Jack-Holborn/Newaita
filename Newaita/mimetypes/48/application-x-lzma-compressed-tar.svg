@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px" viewBox="0 0 48 48" version="1.1">
 =======
@@ -10,11 +11,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48pt" height="48pt" viewBox="0 0 48 48" version="1.1">
 >>>>>>> master
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48pt" height="48pt" viewBox="0 0 48 48" version="1.1">
+>>>>>>> master
 <defs>
 <linearGradient id="linear0" gradientUnits="userSpaceOnUse" x1="254" y1="233.5" x2="254" y2="254.666672" gradientTransform="matrix(0.093759,0,0,0.093759,-0.00000572259,20.158177)">
 <stop offset="0" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.27451;"/>
 <stop offset="1" style="stop-color:rgb(0%,0%,0%);stop-opacity:0;"/>
 </linearGradient>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <radialGradient id="radial0" gradientUnits="userSpaceOnUse" cx="450.908936" cy="189.579361" fx="450.908936" fy="189.579361" r="21.166656" gradientTransform="matrix(0.000000261256,-0.117199,-0.210958,-0.000000152308,79.684393,95.393)">
@@ -57,6 +63,20 @@
 <radialGradient id="radial2" gradientUnits="userSpaceOnUse" cx="450.908936" cy="189.579361" fx="450.908936" fy="189.579361" r="21.166656" gradientTransform="matrix(-0.000000261256,-0.117199,0.210958,-0.000000152308,-31.80678,95.392999)">
 <stop offset="0" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.313725;"/>
 >>>>>>> master
+=======
+<radialGradient id="radial0" gradientUnits="userSpaceOnUse" cx="450.908936" cy="189.579361" fx="450.908936" fy="189.579361" r="21.166656" gradientTransform="matrix(0.000000261256,-0.117199,-0.210958,-0.000000152308,79.684395,95.392999)">
+<stop offset="0" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.313725;"/>
+<stop offset="0.222222" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.27451;"/>
+<stop offset="1" style="stop-color:rgb(0%,0%,0%);stop-opacity:0;"/>
+</radialGradient>
+<radialGradient id="radial1" gradientUnits="userSpaceOnUse" cx="450.908936" cy="189.579361" fx="450.908936" fy="189.579361" r="21.166656" gradientTransform="matrix(-0.000000261256,0.117199,0.210958,0.000000152308,-31.80678,-11.291218)">
+<stop offset="0" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.313725;"/>
+<stop offset="0.222222" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.27451;"/>
+<stop offset="1" style="stop-color:rgb(0%,0%,0%);stop-opacity:0;"/>
+</radialGradient>
+<radialGradient id="radial2" gradientUnits="userSpaceOnUse" cx="450.908936" cy="189.579361" fx="450.908936" fy="189.579361" r="21.166656" gradientTransform="matrix(-0.000000261256,-0.117199,0.210958,-0.000000152308,-31.80678,95.392999)">
+<stop offset="0" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.313725;"/>
+>>>>>>> master
 <stop offset="0.222222" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.27451;"/>
 <stop offset="1" style="stop-color:rgb(0%,0%,0%);stop-opacity:0;"/>
 </radialGradient>
@@ -67,6 +87,7 @@
 </radialGradient>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <linearGradient id="linear1" gradientUnits="userSpaceOnUse" x1="254" y1="-168.666656" x2="254" y2="233.5" gradientTransform="matrix(0.093759,0,0,0.093759,0,20.158174)">
 <stop offset="0" style="stop-color:rgb(77.254903%,88.235295%,64.705884%);stop-opacity:1;"/>
 <stop offset="1" style="stop-color:rgb(68.235296%,83.529413%,50.588238%);stop-opacity:1;"/>
@@ -75,6 +96,11 @@
 <stop offset="0" style="stop-color:rgb(77.254902%,88.235294%,64.705882%);stop-opacity:1;"/>
 <stop offset="1" style="stop-color:rgb(68.235294%,83.529412%,50.588235%);stop-opacity:1;"/>
 >>>>>>> fe3533a9f (merge cbernix repo into jack)
+=======
+<linearGradient id="linear1" gradientUnits="userSpaceOnUse" x1="254" y1="-168.666656" x2="254" y2="233.5" gradientTransform="matrix(0.093759,0,0,0.093759,0,20.158175)">
+<stop offset="0" style="stop-color:rgb(77.254902%,88.235294%,64.705882%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(68.235294%,83.529412%,50.588235%);stop-opacity:1;"/>
+>>>>>>> master
 =======
 <linearGradient id="linear1" gradientUnits="userSpaceOnUse" x1="254" y1="-168.666656" x2="254" y2="233.5" gradientTransform="matrix(0.093759,0,0,0.093759,0,20.158175)">
 <stop offset="0" style="stop-color:rgb(77.254902%,88.235294%,64.705882%);stop-opacity:1;"/>
