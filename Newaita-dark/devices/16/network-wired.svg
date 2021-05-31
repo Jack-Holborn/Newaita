@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16px" height="16px" viewBox="0 0 16 16" version="1.1">
 <g id="surface1">
@@ -9,6 +10,8 @@
  </defs>
 <path style="fill:currentColor" class="ColorScheme-Text" d="M 3 3 C 2.445312 3 2 3.445312 2 4 L 2 10 C 2 10.554688 2.445312 11 3 11 L 4 11 L 4 12 C 4 12.554688 4.445312 13 5 13 L 11 13 C 11.554688 13 12 12.554688 12 12 L 12 11 L 13 11 C 13.554688 11 14 10.554688 14 10 L 14 4 C 14 3.445312 13.554688 3 13 3 Z M 3.625 4 L 4 4 L 4 5 L 5 5 L 5 4 L 6 4 L 6 5 L 7 5 L 7 4 L 9 4 L 9 5 L 10 5 L 10 4 L 11 4 L 11 5 L 12 5 L 12 4 L 12.375 4 C 12.722656 4 13 4.222656 13 4.5 L 13 9.5 C 13 9.777344 12.722656 10 12.375 10 L 11 10 L 11 11.75 C 11 11.886719 10.832031 12 10.625 12 L 5.375 12 C 5.167969 12 5 11.886719 5 11.75 L 5 10 L 3.625 10 C 3.277344 10 3 9.777344 3 9.5 L 3 4.5 C 3 4.222656 3.277344 4 3.625 4 Z M 5 7 L 5 8 L 11 8 L 11 7 Z M 5 7 "/>
 =======
+=======
+>>>>>>> master
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16px" height="16px" viewBox="0 0 16 16" version="1.1">
 <defs>
@@ -88,6 +91,9 @@
 <path style="fill:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke:rgb(12.941177%,12.941177%,12.941177%);stroke-opacity:1;stroke-miterlimit:4;" d="M 238.102262 -94.636494 L 238.102262 -84.012509 C 238.102262 -78.13807 242.851809 -73.388523 248.726248 -73.388523 L 259.350233 -73.388523 C 265.099684 -73.388523 269.849231 -78.13807 269.849231 -84.012509 L 269.849231 -94.636494 Z M 238.102262 -94.636494 " transform="matrix(0.031253,0,0,0.031253,0,6.719392)"/>
 <path style="fill:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke:rgb(12.941177%,12.941177%,12.941177%);stroke-opacity:1;stroke-miterlimit:4;" d="M 291.097202 -94.636494 L 291.097202 -84.012509 C 291.097202 -78.13807 295.72176 -73.388523 301.596199 -73.388523 L 312.220184 -73.388523 C 318.094623 -73.388523 322.84417 -78.13807 322.84417 -84.012509 L 322.84417 -94.636494 Z M 291.097202 -94.636494 " transform="matrix(0.031253,0,0,0.031253,0,6.719392)"/>
 <path style="fill:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke:rgb(12.941177%,12.941177%,12.941177%);stroke-opacity:1;stroke-miterlimit:4;" d="M 132.237372 -94.636494 L 132.237372 -84.012509 C 132.237372 -78.13807 136.986918 -73.388523 142.861357 -73.388523 L 153.485343 -73.388523 C 159.359782 -73.388523 163.98434 -78.13807 163.98434 -84.012509 L 163.98434 -94.636494 Z M 132.237372 -94.636494 " transform="matrix(0.031253,0,0,0.031253,0,6.719392)"/>
+<<<<<<< HEAD
 >>>>>>> fe3533a9f (merge cbernix repo into jack)
+=======
+>>>>>>> master
 </g>
 </svg>

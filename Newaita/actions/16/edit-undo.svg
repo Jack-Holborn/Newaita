@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16px" height="16px" viewBox="0 0 16 16" version="1.1">
 <g id="surface1">
@@ -13,3 +14,6 @@
 =======
 <svg xmlns="http://www.w3.org/2000/svg" width="16pt" height="16pt" viewBox="0 0 16 16"><path d="M3.465 3.266h1.648" fill="none" stroke-width=".9984375" stroke-linecap="round" stroke-linejoin="round" stroke="#424242"/><path d="M3.633 1.281L1.648 3.266 3.633 5.25" fill="none" stroke-width=".9984375" stroke-linecap="round" stroke-linejoin="round" stroke="#26a69a"/><path d="M4.79 2.77v.992h3.968c2.75 0 4.96 2.215 4.96 4.965a4.95 4.95 0 0 1-4.96 4.96H6.113a.492.492 0 0 0-.496.497c0 .273.219.496.496.496h2.645a5.94 5.94 0 0 0 5.953-5.953A5.94 5.94 0 0 0 8.758 2.77zm0 0" fill="#424242"/></svg>
 >>>>>>> fe3533a9f (merge cbernix repo into jack)
+=======
+<svg xmlns="http://www.w3.org/2000/svg" width="16pt" height="16pt" viewBox="0 0 16 16"><path d="M3.465 3.266h1.648" fill="none" stroke-width=".9984375" stroke-linecap="round" stroke-linejoin="round" stroke="#424242"/><path d="M3.633 1.281L1.648 3.266 3.633 5.25" fill="none" stroke-width=".9984375" stroke-linecap="round" stroke-linejoin="round" stroke="#26a69a"/><path d="M4.79 2.77v.992h3.968c2.75 0 4.96 2.215 4.96 4.965a4.95 4.95 0 0 1-4.96 4.96H6.113a.492.492 0 0 0-.496.497c0 .273.219.496.496.496h2.645a5.94 5.94 0 0 0 5.953-5.953A5.94 5.94 0 0 0 8.758 2.77zm0 0" fill="#424242"/></svg>
+>>>>>>> master

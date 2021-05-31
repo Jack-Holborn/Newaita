@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px" viewBox="0 0 48 48" version="1.1">
 <defs>
@@ -80,6 +81,8 @@
  </defs>
 <path style="fill:currentColor" class="ColorScheme-Text" d="M 22.910156 31.5 L 31.804688 40.394531 C 35.671875 38.566406 38.765625 35.402344 40.523438 31.5 Z M 22.910156 31.5 "/>
 =======
+=======
+>>>>>>> master
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48pt" height="48pt" viewBox="0 0 48 48" version="1.1">
 <g id="surface1">
@@ -91,6 +94,9 @@
 <path style=" stroke:none;fill-rule:nonzero;fill:rgb(74.117649%,74.117649%,74.117649%);fill-opacity:1;" d="M 40.550781 17.992188 L 28.21875 30.324219 L 40.683594 30.324219 C 42.105469 26.335938 42.058594 21.957031 40.550781 17.992188 Z M 40.550781 17.992188 "/>
 <path style=" stroke:none;fill-rule:nonzero;fill:rgb(74.117649%,74.117649%,74.117649%);fill-opacity:1;" d="M 6.972656 18.34375 C 5.546875 22.332031 5.59375 26.710938 7.101562 30.675781 L 19.4375 18.34375 Z M 6.972656 18.34375 "/>
 <path style=" stroke:none;fill-rule:nonzero;fill:rgb(74.117649%,74.117649%,74.117649%);fill-opacity:1;" d="M 22.695312 31.675781 L 31.507812 40.488281 C 35.335938 38.675781 38.398438 35.546875 40.136719 31.675781 Z M 22.695312 31.675781 "/>
+<<<<<<< HEAD
 >>>>>>> fe3533a9f (merge cbernix repo into jack)
+=======
+>>>>>>> master
 </g>
 </svg>
