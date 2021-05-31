@@ -1,7 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16pt" height="16pt" viewBox="0 0 16 16"><defs><filter id="a" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%"><feColorMatrix in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/></filter><mask id="e"><path fill-opacity=".988" d="M0 0h16v16H0z" filter="url(#a)"/></mask><clipPath id="b"><path d="M0 0h16v16H0z"/></clipPath><g id="d" clip-path="url(#b)"><path d="M.66 4.094v9.922c0 .734.59 1.324 1.324 1.324h11.907a1.32 1.32 0 0 0 1.324-1.324V4.094h-.992v9.593c0 .364-.297.66-.66.66H2.316a.663.663 0 0 1-.664-.66V4.095zm0 0" fill="#424242"/></g><mask id="g"><path fill-opacity=".988" d="M0 0h16v16H0z" filter="url(#a)"/></mask><clipPath id="c"><path d="M0 0h16v16H0z"/></clipPath><g id="f" clip-path="url(#c)"><path d="M1.984.785A1.32 1.32 0 0 0 .66 2.11v1.985h14.555V2.109A1.32 1.32 0 0 0 13.89.785zm.993.664a.991.991 0 1 1-.992.992c0-.55.44-.992.992-.992zm9.921 0a.991.991 0 1 1-.992.992c0-.55.446-.992.992-.992zm0 0" fill="#9ccc65"/></g></defs><use xlink:href="#d" mask="url(#e)"/><use xlink:href="#f" mask="url(#g)"/><path d="M3.969 6.41h5.953c.55 0 .992.371.992.828 0 .453-.441.824-.992.824H3.969c-.547 0-.992-.37-.992-.824 0-.457.445-.828.992-.828zm0 0M5.621 10.047h5.957c.547 0 .992.371.992.828 0 .457-.445.828-.992.828H5.621c-.547 0-.992-.371-.992-.828 0-.457.445-.828.992-.828zm0 0" fill="#ff7043"/></svg>
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> jack
 <<<<<<< HEAD
 <<<<<<< HEAD
 
@@ -24,4 +27,7 @@
 =======
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16pt" height="16pt" viewBox="0 0 16 16"><defs><filter id="a" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%"><feColorMatrix in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/></filter><mask id="e"><path fill-opacity=".988" d="M0 0h16v16H0z" filter="url(#a)"/></mask><clipPath id="b"><path d="M0 0h16v16H0z"/></clipPath><g id="d" clip-path="url(#b)"><path d="M.66 4.094v9.922c0 .734.59 1.324 1.324 1.324h11.907a1.32 1.32 0 0 0 1.324-1.324V4.094h-.992v9.593c0 .364-.297.66-.66.66H2.316a.663.663 0 0 1-.664-.66V4.095zm0 0" fill="#424242"/></g><mask id="g"><path fill-opacity=".988" d="M0 0h16v16H0z" filter="url(#a)"/></mask><clipPath id="c"><path d="M0 0h16v16H0z"/></clipPath><g id="f" clip-path="url(#c)"><path d="M1.984.785A1.32 1.32 0 0 0 .66 2.11v1.985h14.555V2.109A1.32 1.32 0 0 0 13.89.785zm.993.664a.991.991 0 1 1-.992.992c0-.55.44-.992.992-.992zm9.921 0a.991.991 0 1 1-.992.992c0-.55.446-.992.992-.992zm0 0" fill="#9ccc65"/></g></defs><use xlink:href="#d" mask="url(#e)"/><use xlink:href="#f" mask="url(#g)"/><path d="M3.969 6.41h5.953c.55 0 .992.371.992.828 0 .453-.441.824-.992.824H3.969c-.547 0-.992-.37-.992-.824 0-.457.445-.828.992-.828zm0 0M5.621 10.047h5.957c.547 0 .992.371.992.828 0 .457-.445.828-.992.828H5.621c-.547 0-.992-.371-.992-.828 0-.457.445-.828.992-.828zm0 0" fill="#ff7043"/></svg>
 >>>>>>> master
+<<<<<<< HEAD
+>>>>>>> jack
+=======
 >>>>>>> jack

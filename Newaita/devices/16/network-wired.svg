@@ -1,6 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> jack
 <<<<<<< HEAD
 <<<<<<< HEAD
 
@@ -17,6 +20,9 @@
 >>>>>>> master
 =======
 >>>>>>> master
+<<<<<<< HEAD
+>>>>>>> jack
+=======
 >>>>>>> jack
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16px" height="16px" viewBox="0 0 16 16" version="1.1">
@@ -98,14 +104,20 @@
 <path style="fill:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke:rgb(12.941177%,12.941177%,12.941177%);stroke-opacity:1;stroke-miterlimit:4;" d="M 291.097202 -94.636494 L 291.097202 -84.012509 C 291.097202 -78.13807 295.72176 -73.388523 301.596199 -73.388523 L 312.220184 -73.388523 C 318.094623 -73.388523 322.84417 -78.13807 322.84417 -84.012509 L 322.84417 -94.636494 Z M 291.097202 -94.636494 " transform="matrix(0.031253,0,0,0.031253,0,6.719392)"/>
 <path style="fill:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke:rgb(12.941177%,12.941177%,12.941177%);stroke-opacity:1;stroke-miterlimit:4;" d="M 132.237372 -94.636494 L 132.237372 -84.012509 C 132.237372 -78.13807 136.986918 -73.388523 142.861357 -73.388523 L 153.485343 -73.388523 C 159.359782 -73.388523 163.98434 -78.13807 163.98434 -84.012509 L 163.98434 -94.636494 Z M 132.237372 -94.636494 " transform="matrix(0.031253,0,0,0.031253,0,6.719392)"/>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> jack
 <<<<<<< HEAD
 >>>>>>> fe3533a9f (merge cbernix repo into jack)
 =======
 >>>>>>> master
 =======
 >>>>>>> master
+<<<<<<< HEAD
+>>>>>>> jack
+=======
 >>>>>>> jack
 </g>
 </svg>

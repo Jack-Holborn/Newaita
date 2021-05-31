@@ -1,6 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> jack
 <<<<<<< HEAD
 <<<<<<< HEAD
 
@@ -17,6 +20,9 @@
 >>>>>>> master
 =======
 >>>>>>> master
+<<<<<<< HEAD
+>>>>>>> jack
+=======
 >>>>>>> jack
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16pt" height="16pt" viewBox="0 0 16 16" version="1.1">
@@ -123,14 +129,20 @@
 <path style=" stroke:none;fill-rule:nonzero;fill:url(#linear13);" d="M 4.300781 9.71875 C 3.933594 9.71875 3.636719 10.011719 3.636719 10.378906 L 3.636719 10.710938 L 12.238281 10.710938 L 12.238281 10.378906 C 12.238281 10.011719 11.941406 9.71875 11.578125 9.71875 Z M 4.300781 9.71875 "/>
 <path style="fill:none;stroke-width:11.338583;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(12.941176%,12.941176%,12.941176%);stroke-opacity:1;stroke-miterlimit:4;" d="M 520.107819 1175.320848 C 475.70261 1175.320848 439.800526 1210.750536 439.800526 1255.155745 L 439.800526 1694.956271 L 1480.016164 1694.956271 L 1480.016164 1255.155745 C 1480.016164 1210.750536 1444.114081 1175.320848 1400.181268 1175.320848 Z M 520.107819 1175.320848 " transform="matrix(0.00826902,0,0,0.00826902,0,0)"/>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> jack
 <<<<<<< HEAD
 >>>>>>> fe3533a9f (merge cbernix repo into jack)
 =======
 >>>>>>> master
 =======
 >>>>>>> master
+<<<<<<< HEAD
+>>>>>>> jack
+=======
 >>>>>>> jack
 </g>
 </svg>
